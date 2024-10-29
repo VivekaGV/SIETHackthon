@@ -1,0 +1,890 @@
+uniqueID,drugName,condition,review,rating,date,usefulCount,sentiment
+1.0,Revital H for Woman Tablet, immunity,Looks Effective one Better results are expected,9.0,2022-08-24 00:00:00,20,Positive
+2.0,Revital H for Woman Tablet, immunity,Its real and useful product must buy,9.0,2022-08-24 00:00:00,21,Positive
+3.0,Revital H for Woman Tablet, immunity,Didn’t feel much change,6.0,2019-11-26 00:00:00,22,Neutral
+4.0,Revital H for Woman Tablet, immunity,Very useful Makes the day active and energetic,9.0,2021-04-17 00:00:00,21,Positive
+5.0,Dabur Chyawanprash Awaleha, immunity,Very nice product,9.0,2021-10-20 00:00:00,23,Positive
+6.0,Dabur Chyawanprash Awaleha, immunity,I loved it good packaging and delicious teste,9.0,2022-01-13 00:00:00,21,Positive
+7.0,Dabur Chyawanprash Awaleha, immunity,Worst product,2.0,2021-10-08 00:00:00,30,Negative
+8.0,Dabur Chyawanprash Awaleha, immunity,Did not meet expectations,4.0,2021-12-12 00:00:00,24,Negative
+9.0,Dabur Ashwagandha Tablets, immunity,Helps in boosting immunity,8.0,2022-06-02 00:00:00,23,Positive
+10.0,Dabur Ashwagandha Tablets, immunity,"Very good product ,no doubt to purchase this material",8.0,2022-09-12 00:00:00,34,Positive
+11.0,UPAKARMA Ayurveda Tulsi Drops, immunity,Very effective and not very strong,8.0,2023-09-23 00:00:00,34,Positive
+12.0,UPAKARMA Ayurveda Tulsi Drops, immunity,Nice product & powerful…,8.0,2021-06-14 00:00:00,32,Positive
+13.0,UPAKARMA Ayurveda Tulsi Drops, immunity,Poor quality,6.0,2024-01-11 00:00:00,23,Neutral
+14.0,UPAKARMA Ayurveda Tulsi Drops, immunity,Not Good,4.0,2024-02-12 00:00:00,23,Negative
+15.0,Baidyanath Panch Tulsi Drops, immunity,Product is good and original,10.0,2023-03-02 00:00:00,27,Positive
+16.0,Baidyanath Panch Tulsi Drops, immunity,Very good product and useful. Also good for health,8.0,2023-01-04 00:00:00,30,Positive
+17.0,Baidyanath Panch Tulsi Drops, immunity,Normal product,6.0,2022-05-21 00:00:00,20,Neutral
+18.0,Baidyanath Panch Tulsi Drops, immunity,The best amongst the many I tried.,9.0,2021-05-23 00:00:00,36,Positive
+19.0,PATANJALI SPECIAL CHYAWANPRASH , immunity,"Excellent product,got 2 tins",9.0,2021-11-23 00:00:00,40,Positive
+20.0,PATANJALI SPECIAL CHYAWANPRASH , immunity,Very good product.,10.0,2023-01-24 00:00:00,28,Positive
+21.0,PATANJALI SPECIAL CHYAWANPRASH , immunity,Very bad,5.0,2024-02-22 00:00:00,26,Negative
+22.0,PATANJALI SPECIAL CHYAWANPRASH , immunity,Good product ,8.0,2022-07-17 00:00:00,39,Positive
+23.0,HIMALAYA Ashvagandha and Shatavari, immunity,Very good product and packaging is also very good ,10.0,2023-09-25 00:00:00,25,Positive
+24.0,HIMALAYA Ashvagandha and Shatavari, immunity,This is average,6.0,2023-11-12 00:00:00,26,Neutral
+25.0,HIMALAYA Ashvagandha and Shatavari, immunity,We like to take more,10.0,2023-03-15 00:00:00,38,Positive
+26.0,HIMALAYA Ashvagandha and Shatavari, immunity,Good product ,10.0,2024-01-01 00:00:00,29,Positive
+27.0,OTRIVIN OXY adult nasal spray,nasal congestion,Good working,10.0,2022-02-21 00:00:00,30,Positive
+28.0,OTRIVIN OXY adult nasal spray,nasal congestion,I am not happy,4.0,2021-11-14 00:00:00,24,Negative
+29.0,OTRIVIN OXY adult nasal spray,nasal congestion,Excellent to stop running nose. ,9.0,2023-01-15 00:00:00,36,Positive
+30.0,OTRIVIN OXY adult nasal spray,nasal congestion,Nice product.,8.0,2022-02-22 00:00:00,40,Positive
+31.0,Tata 1mg Saline Nasal Spray,nasal congestion,its effective products,8.0,2023-06-15 00:00:00,39,Positive
+32.0,Tata 1mg Saline Nasal Spray,nasal congestion,"Its not a spray, its only liquid and also not working",4.0,2023-08-05 00:00:00,34,Negative
+33.0,Tata 1mg Saline Nasal Spray,nasal congestion,Wastage of money,2.0,2023-08-22 00:00:00,35,Negative
+34.0,Tata 1mg Saline Nasal Spray,nasal congestion,good product for nasal congestion,8.0,2023-08-05 00:00:00,30,Positive
+35.0,Nasivion Classic Nasal Spray ,nasal congestion,its our first use and happy with result,9.0,2022-01-15 00:00:00,29,Positive
+,Nasivion Classic Nasal Spray ,nasal congestion,"Good product, serves its purpose.",10.0,2022-05-01 00:00:00,37,Positive
+,Nasivion Classic Nasal Spray ,nasal congestion,its excellent formula for blocked nose,10.0,2021-09-26 00:00:00,32,Positive
+,Nasivion Classic Nasal Spray ,nasal congestion,Not of use,4.0,2022-12-30 00:00:00,30,Negative
+,Himalaya Bresol NS Nasal Solution,nasal congestion,Very good and effective solution,10.0,2021-08-23 00:00:00,27,Positive
+,Himalaya Bresol NS Nasal Solution,nasal congestion,Works initially but nose gets blocked after three hours or so.,6.0,2022-02-09 00:00:00,23,Neutral
+,Himalaya Bresol NS Nasal Solution,nasal congestion,Very effective in nasal blocks and economical,10.0,2022-06-02 00:00:00,20,Positive
+,Himalaya Bresol NS Nasal Solution,nasal congestion,Not giving results,4.0,2022-09-20 00:00:00,26,Negative
+,Nosikind Nasal Spray,nasal congestion,Good for use ad compared to other Nasal spray,10.0,2022-02-28 00:00:00,34,Positive
+,Nosikind Nasal Spray,nasal congestion,Very much effective,10.0,2020-01-15 00:00:00,35,Positive
+,Nosikind Nasal Spray,nasal congestion,Spray not working properly,6.0,2020-12-26 00:00:00,38,Neutral
+,Nosikind Nasal Spray,nasal congestion,"Worst product,spray not works properly...",4.0,2021-03-02 00:00:00,23,Negative
+,Xylomist 0.1% Nasal Drops,nasal congestion,This Nasal Drop Better than any Other Drop,10.0,2021-03-12 00:00:00,25,Positive
+,Xylomist 0.1% Nasal Drops,nasal congestion,DID NOT MAKE MUCH OF A DIFFERENCE,4.0,2021-07-20 00:00:00,26,Neutral
+,Xylomist 0.1% Nasal Drops,nasal congestion,Good for people with allergy issues,10.0,2023-12-14 00:00:00,34,Positive
+,Xylomist 0.1% Nasal Drops,nasal congestion,Very Fast n Effective,10.0,2022-11-18 00:00:00,40,Positive
+,ISOTINE PLUS EYE DROP,Eye Drops,Very good product,10.0,2023-09-20 00:00:00,39,Positive
+,ISOTINE PLUS EYE DROP,Eye Drops,I am using it for few months but see no visible difference on my eyes.,6.0,2023-06-01 00:00:00,34,Neutral
+,ISOTINE PLUS EYE DROP,Eye Drops,Not so effective,6.0,2024-02-24 00:00:00,34,Negative
+,ISOTINE PLUS EYE DROP,Eye Drops,"After the first application itself my vision got worse, than it was before",2.0,2024-01-30 00:00:00,23,Negative
+,EyeSpa eye drops,Eye Drops, And this solution has proved to be even better than others I've used before.,10.0,2024-01-01 00:00:00,34,Positive
+,EyeSpa eye drops,Eye Drops,good product hard to find in local chemist,8.0,2021-03-02 00:00:00,23,Positive
+,EyeSpa eye drops,Eye Drops,Excellent for eye care,10.0,2024-01-02 00:00:00,34,Positive
+,EyeSpa eye drops,Eye Drops,Did not like,4.0,2023-12-05 00:00:00,31,Negative
+,Himalaya Ophtha Care Eye Drop ,Eye Drops,Mild drop. Good.,10.0,2023-08-17 00:00:00,25,Positive
+,Himalaya Ophtha Care Eye Drop ,Eye Drops,Great product,10.0, 07-Dec-2023,35,Positive
+,Optrex Refreshing Eye Drops,Eye Drops,Good product. Just what I needed.,10.0,2024-02-26 00:00:00,23,Positive
+,Optrex Refreshing Eye Drops,Eye Drops,Would recommend for short term relief.,6.0, 6-Nov-23,42,Neutral
+,Optrex Refreshing Eye Drops,Eye Drops," If like me you spend hours on the computer, this works a treat.",10.0,2023-12-01 00:00:00,23,Positive
+,Optrex Refreshing Eye Drops,Eye Drops,Very pleasant application and immediately helps my tired eyes.,10.0,2023-10-02 00:00:00,28,Positive
+,PATANJALI Drishti Eye Drop,Eye Drops,Always awesome,10.0,2018-08-28 00:00:00,45,Positive
+,PATANJALI Drishti Eye Drop,Eye Drops,Giving me too much burning intolerable,5.0,2023-02-21 00:00:00,25,Negative
+,PATANJALI Drishti Eye Drop,Eye Drops,Received expired products,4.0, 4-Apr-2023,13,Neutral
+,PATANJALI Drishti Eye Drop,Eye Drops,It works,9.0, 25-Oct-2023,16,Positive
+,Patanjali Divya Eargrit Eardrop,"Ear Drops,Vertigo",I am using before 7das and I feel so good.,10.0,2023-08-28 00:00:00,34,Positive
+,Patanjali Divya Eargrit Eardrop,"Ear Drops,Vertigo",Excellent product for ears,10.0,2023-09-28 00:00:00,35,Positive
+,Patanjali Divya Eargrit Eardrop,"Ear Drops,Vertigo",Replace it with regular nossle type design.,7.0,2023-08-24 00:00:00,24,Neutral
+,Patanjali Divya Eargrit Eardrop,"Ear Drops,Vertigo",Not Good,4.0,2024-02-10 00:00:00,35,Negative
+,Ceruklin Ear Drop,"Ear Drops,Vertigo",Effective in softening ear wax quickly giving relief to pain.,10.0,2022-12-23 00:00:00,43,Positive
+,Ceruklin Ear Drop,"Ear Drops,Vertigo",Good Product,10.0,2022-05-20 00:00:00,39,Positive
+,AL-EARTONE Ear Drops,"Ear Drops,Vertigo",I strongly recommend it,10.0,2024-03-02 00:00:00,20,Positive
+,AL-EARTONE Ear Drops,"Ear Drops,Vertigo",Good product and packaging for parcel,10.0,2023-12-21 00:00:00,21,Positive
+,AL-EARTONE Ear Drops,"Ear Drops,Vertigo",not working,3.0,2023-12-19 00:00:00,25,Negative
+,AL-EARTONE Ear Drops,"Ear Drops,Vertigo","i saw result after using twice,worth it",10.0,2023-10-01 00:00:00,32,Positive
+,Soliwax O Ear Drop,"Ear Drops,Vertigo",Did not notice any result,6.0,2023-10-15 00:00:00,36,Negative
+,Soliwax O Ear Drop,"Ear Drops,Vertigo",Good product,10.0,2023-06-22 00:00:00,34,Positive
+,Dabur Ashwagandharishta,Weakness,"Great taste, seems like an effective product",10.0,2021-10-20 00:00:00,16,Positive
+,Dabur Ashwagandharishta,Weakness,Superb product.Very effective,10.0,2022-08-11 00:00:00,16,Positive
+,Dabur Ashwagandharishta,Weakness,It should have been free from preservatives.,6.0,2023-05-28 00:00:00,29,Neutral
+,Dabur Ashwagandharishta,Weakness,A good product but not so much effective,5.0,2022-09-08 00:00:00,27,Neutral
+,Patanjali Ayurveda Shatavar Churna,Weakness,Not in good condition.,6.0,2022-05-08 00:00:00,42,Negative
+,Patanjali Ayurveda Shatavar Churna,Weakness,Useful product,9.0,2022-10-19 00:00:00,35,Positive
+,Patanjali Ayurveda Shatavar Churna,Weakness,Very good product,9.0,2022-10-30 00:00:00,38,Positive
+,Patanjali Ayurveda Shatavar Churna,Weakness,"Good product , good results",10.0,2022-11-24 00:00:00,37,Positive
+,Patanjali Ayurveda Ashvagandha Capsule,Weakness,Very good quality,10.0,2022-02-21 00:00:00,24,Positive
+,Patanjali Ayurveda Ashvagandha Capsule,Weakness,Nice product. Make us energetic whole day,8.0,2022-04-23 00:00:00,32,Positive
+,Patanjali Ayurveda Ashvagandha Capsule,Weakness,Good for health,10.0,2022-12-31 00:00:00,36,Positive
+,Patanjali Ayurveda Ashvagandha Capsule,Weakness,So good benefit,10.0,2022-08-25 00:00:00,32,Positive
+,Organic India Moringa Powder,Weakness,I like it as it is an antioxident,9.0,2021-04-10 00:00:00,35,Positive
+,Organic India Moringa Powder,Weakness,Its good for digestion and muscle strength,10.0,2021-06-07 00:00:00,46,Positive
+,Organic India Moringa Powder,Weakness,The nice product must buy for good health,10.0,2023-07-22 00:00:00,32,Positive
+,Organic India Moringa Powder,Weakness,This is also a great product for health,10.0,2019-11-26 00:00:00,25,Positive
+,Dexorange Hematinic Syrup ,Weakness,good product,10.0,2021-07-16 00:00:00,21,Positive
+,Dexorange Hematinic Syrup ,Weakness,Syrup taste is good and effective,10.0,2022-03-10 00:00:00,36,Positive
+,Dexorange Hematinic Syrup ,Weakness,Superb for iron improvement,10.0,2022-08-10 00:00:00,24,Positive
+,Dexorange Hematinic Syrup ,Weakness,Value for money,9.0,2022-06-02 00:00:00,26,Neutral
+,SheNeed Feminine Vaginal Douche Uti Relief,Vaginitis,Was very helpful for my uti n yeast infection.,10.0,2023-03-08 00:00:00,38,Positive
+,SheNeed Feminine Vaginal Douche Uti Relief,Vaginitis,All the products from this brand are really good and worth the money ,9.0,2022-07-05 00:00:00,30,Positive
+,BIOAYURVEDA Anti-Fungal Vaginal Cream,Vaginitis,This cream work very nicely ,10.0,2023-05-03 00:00:00,23,Positive
+,BIOAYURVEDA Anti-Fungal Vaginal Cream,Vaginitis,Best product,10.0,2023-06-13 00:00:00,37,Positive
+,BIOAYURVEDA Anti-Fungal Vaginal Cream,Vaginitis,Not getting result,5.0,2023-01-12 00:00:00,35,Negative
+,VWash Plus Expert,Vaginitis,Good product for intimate wash,10.0,2024-01-14 00:00:00,43,Positive
+,VWash Plus Expert,Vaginitis,Very good and soft on skin.,10.0,2023-11-26 00:00:00,33,Positive
+,VWash Plus Expert,Vaginitis,Best to use regularly,9.0,2024-01-06 00:00:00,13,Positive
+,Urikind-KM Sachet,Urinary Tract Infection,Good for urine infection,8.0,2021-08-02 00:00:00,55,Positive
+,Urikind-KM Sachet,Urinary Tract Infection,this product urinal infection ke liye best hai…,10.0,2021-09-20 00:00:00,31,Positive
+,Urikind-KM Sachet,Urinary Tract Infection,Very good to control UTI and easy to consume. ,10.0,2024-02-29 00:00:00,35,Positive
+,Candid Multi-Benefit Skin Cream,Urinary Tract Infection,its a good antifungal cream,8.0,2021-12-07 00:00:00,24,Positive
+,Candid Multi-Benefit Skin Cream,Urinary Tract Infection,I have been using this cream from long happy,9.0,2022-01-14 00:00:00,34,Positive
+,Candid Multi-Benefit Skin Cream,Urinary Tract Infection,Its very effective for my skin disease,10.0,2022-08-05 00:00:00,24,Positive
+,Namyaa Mutrakriccha Syrup for UTI,Urinary Tract Infection,It is so useful to treat a UTI problems,10.0,2023-08-31 00:00:00,13,Positive
+,Namyaa Mutrakriccha Syrup for UTI,Urinary Tract Infection,Nice product for women and it's very healthy,8.0,2023-12-13 00:00:00,34,Positive
+,Namyaa Mutrakriccha Syrup for UTI,Urinary Tract Infection,I took this regularly but didn't work for me,4.0,2023-04-25 00:00:00,39,Negative
+,Baidyanath Pathrina,Urinary Tract Infection,Reduced infection and pain. Good medicine.,10.0,2023-11-04 00:00:00,37,Positive
+,Baidyanath Pathrina,Urinary Tract Infection,Best medicine for UTI and kidney stone,9.0,2023-03-03 00:00:00,26,Positive
+,Baidyanath Pathrina,Urinary Tract Infection,Very effective,9.0,2023-06-16 00:00:00,32,Positive
+,Nisarga Herbs for Obesity,Obesity,Supper effective and super digestive. ,9.0,2023-07-10 00:00:00,23,Positive
+,Nisarga Herbs for Obesity,Obesity,Good product,9.0,2023-11-04 00:00:00,34,Positive
+,Nisarga Herbs for Obesity,Obesity,trust me it works.,9.0,2021-11-01 00:00:00,56,Positive
+,Himalaya Wellness AyurSlim Capsules,Obesity,Results are steady and gradual but quite effective.,8.0, 6-Jan-2024,13,Positive
+,Himalaya Wellness AyurSlim Capsules,Obesity,Received as shown in the image,7.0,2024-02-21 00:00:00,35,Neutral
+,Himalaya Wellness AyurSlim Capsules,Obesity,Disliked product,4.0,2024-01-20 00:00:00,38,Negative
+,Wellona Keto Fat Burner,Obesity,It's amazing creation and very recommendable to lose weight.,10.0,2024-02-29 00:00:00,37,Positive
+,Wellona Keto Fat Burner,Obesity,starting i thought it is not effective after 5 days i seen good effects one,9.0,2024-03-06 00:00:00,29,Positive
+,Wellona Keto Fat Burner,Obesity,Very effective product for loosing weight.,9.0,2024-03-08 00:00:00,38,Positive
+,Boldfit Apple Cider Vinegar Tablets for Weight Loss,Obesity,It is good but littl bit smell it is ok I have received amount ,8.0,2024-02-13 00:00:00,39,Positive
+,Boldfit Apple Cider Vinegar Tablets for Weight Loss,Obesity,Product is good with little low on taste,6.0,2024-03-06 00:00:00,39,Positive
+,Boldfit Apple Cider Vinegar Tablets for Weight Loss,Obesity,This is a very good quality apple cider vinegar,10.0,2024-03-01 00:00:00,25,Positive
+,Kapiva Get Slim Juice,Obesity,It helped reduce bloating and headaches.,10.0,2024-03-04 00:00:00,36,Positive
+,Kapiva Get Slim Juice,Obesity,"Waste of money,it's not showing any results.",4.0,2023-12-22 00:00:00,25,Negative
+,Kapiva Get Slim Juice,Obesity,I see positive results in my weight loss journey ,8.0,2023-06-17 00:00:00,46,Positive
+,ORGANIC INDIA Ashwagandha Capsules,"Anxiety,Stress,Bipolar disorder, depression",One of the best ashwagandha capsules I feel after consuming for two months.,9.0,2023-10-26 00:00:00,35,Positive
+,ORGANIC INDIA Ashwagandha Capsules,"Anxiety,Stress,Bipolar disorder, depression",Better sleep and better stress management.,10.0,2023-09-14 00:00:00,34,Positive
+,ORGANIC INDIA Ashwagandha Capsules,"Anxiety,Stress,Bipolar disorder, depression",They helped me so much in reducing stress and keeping me focused,10.0,2023-07-18 00:00:00,46,Positive
+,Life Aveda De Stress Ayurvedic medicine for stress & anxiety,"Anxiety,Stress,Bipolar disorder, depression",helpful & genuine supplement. Good product.,10.0,2024-01-19 00:00:00,54,Positive
+,Life Aveda De Stress Ayurvedic medicine for stress & anxiety,"Anxiety,Stress,Bipolar disorder, depression",works like magic for stress,10.0,2024-02-13 00:00:00,34,Positive
+,Life Aveda De Stress Ayurvedic medicine for stress & anxiety,"Anxiety,Stress,Bipolar disorder, depression",I noticed a significant difference in my overall stress levels. Good product!,10.0,2024-03-12 00:00:00,34,Positive
+,Cureveda Herbal Stress Shield Tablets,"Anxiety,Stress,Bipolar disorder, depression",The product has great mix of Ayurvedic ingredients. ,10.0,2023-07-29 00:00:00,23,Positive
+,Cureveda Herbal Stress Shield Tablets,"Anxiety,Stress,Bipolar disorder, depression",Very useful product. I used it for 10 days and got visible positive results.,10.0,2019-10-25 00:00:00,23,Positive
+,Cureveda Herbal Stress Shield Tablets,"Anxiety,Stress,Bipolar disorder, depression",Not worth it .its better to consult a doctor near you .,6.0,2020-02-26 00:00:00,45,Negative
+,"Himalaya Organic Ashwagandha, Release Stress","Anxiety,Stress,Bipolar disorder, depression",We are using it for the first time so can’t give a precise review now,5.0, 17-Dec-2023,34,Neutral
+,"Himalaya Organic Ashwagandha, Release Stress","Anxiety,Stress,Bipolar disorder, depression",I bought this recently and the experience has been great! ,8.0,2024-02-19 00:00:00,12,Positive
+,"Himalaya Organic Ashwagandha, Release Stress","Anxiety,Stress,Bipolar disorder, depression",Would highly recommend this to people looking to lower stress levels in these times.,9.0,2024-02-19 00:00:00,45,Positive
+,Boldveda Ashwagandha Tablets for Men & Women,"Anxiety,Stress,Bipolar disorder, depression","Good product It's helping me to stabilize my mind, and it's giving the body energy.",10.0,2023-11-03 00:00:00,24,Positive
+,Boldveda Ashwagandha Tablets for Men & Women,"Anxiety,Stress,Bipolar disorder, depression",ON'T BUY PLEASE no return refund by Amazon,2.0,2024-03-02 00:00:00,23,Negative
+,Boldveda Ashwagandha Tablets for Men & Women,"Anxiety,Stress,Bipolar disorder, depression",Best in all aspects.,9.0,2024-01-10 00:00:00,30,Positive
+,QUARANT VitaChews,Autism,"Excellent product, my children loved the taste and best of all that it helped them with their health.",10.0,2023-11-20 00:00:00,35,Positive
+,QUARANT VitaChews,Autism,Give them to my son everyday for his daily vitamins. He likes them and says the taste is good.,10.0,2023-11-20 00:00:00,23,Positive
+,QUARANT VitaChews,Autism,Too expensive. Alternatives are available.,6.0,2023-12-03 00:00:00,34,Neutral
+,Rishtpusht Braino-Active,Autism,Total waste,5.0,2020-05-27 00:00:00,23,Negative
+,Rishtpusht Braino-Active,Autism,Not that good,6.0,2020-04-28 00:00:00,45,Neutral
+,Nutrileague L- Carnosine Syrup ,Autism,I liked this product very much,10.0,2023-07-24 00:00:00,33,Positive
+,Nutrileague L- Carnosine Syrup ,Autism,Best product for my autism baby,10.0,2023-04-08 00:00:00,32,Positive
+,Nutrileague L- Carnosine Syrup ,Autism,I used 4 bottles regularly..but didn't find any benefit or effectiveness to my kid.,5.0,2023-05-14 00:00:00,42,Negative
+,AVP IQ Shakti 250g,Autism,"Very good product for children , it's yummy , immunity booster and sharpens the child's mind.",10.0,2024-01-21 00:00:00,13,Positive
+,AVP IQ Shakti 250g,Autism,Great product with great taste,10.0,2024-02-08 00:00:00,35,Positive
+,AVP IQ Shakti 250g,Autism,It is tasty and healthy for kids and kids taking easily I will recommend to all,10.0,2024-01-21 00:00:00,45,Positive
+,Little Joys DHA Brain Health Gummies,Autism,"Good product, serves its purpose.",8.0,2024-04-22 00:00:00,23,Positive
+,Little Joys DHA Brain Health Gummies,Autism,Very effective product.,9.0,2024-03-23 00:00:00,13,Positive
+,Relaxyl Analgesic & Anti-Inflammatory Gel,"Inflammation,lupus",Really worth of money and very good get for any type of joint.,10.0,2022-08-09 00:00:00,35,Positive
+,Relaxyl Analgesic & Anti-Inflammatory Gel,"Inflammation,lupus",Using since long as effective as day 1st.,10.0,2022-08-09 00:00:00,35,Positive
+,Relaxyl Analgesic & Anti-Inflammatory Gel,"Inflammation,lupus",Super trusted this brand from 40 years,9.0,2022-10-07 00:00:00,34,Positive
+,Systaflam Gel,"Inflammation,lupus",It is a good product but the tube was not sealed,8.0,2021-08-30 00:00:00,15,Positive
+,Systaflam Gel,"Inflammation,lupus",It has good muscle relaxant and pain control,9.0,2021-11-26 00:00:00,36,Positive
+,Systaflam Gel,"Inflammation,lupus",Very Had quality,5.0,2023-04-09 00:00:00,16,Negative
+,Zandu Rhumasyl Liniment,"Inflammation,lupus",Quality and effective product,10.0,2019-12-29 00:00:00,23,Positive
+,Zandu Rhumasyl Liniment,"Inflammation,lupus",I have used this earlier also but this sample is not original It doesn work as before,6.0,2019-05-25 00:00:00,34,Negative
+,Zandu Rhumasyl Liniment,"Inflammation,lupus",Very useful,10.0,2019-10-17 00:00:00,43,Positive
+,Boroplus Aloe Vera Gel For Anti-Inflammatory,"Inflammation,lupus",This is a awesome gel and very useful for skin also,10.0,2024-01-14 00:00:00,34,Positive
+,Boroplus Aloe Vera Gel For Anti-Inflammatory,"Inflammation,lupus",A bit expensive but nice product,8.0,2023-11-29 00:00:00,35,Positive
+,Boroplus Aloe Vera Gel For Anti-Inflammatory,"Inflammation,lupus",Very useful product,4.0,2024-03-10 00:00:00,45,Negative
+,Kosmoderma DermaBrite Cream For anti-inflammatory effects,"Inflammation,lupus",Very effective product.,10.0,2023-05-11 00:00:00,15,Positive
+,Kosmoderma DermaBrite Cream For anti-inflammatory effects,"Inflammation,lupus",Excellent product.,10.0,2023-07-12 00:00:00,35,Positive
+,Kosmoderma DermaBrite Cream For anti-inflammatory effects,"Inflammation,lupus",Worst product,5.0,2023-03-13 00:00:00,33,Negative
+,Himalaya Liv. 52 DS Tablet,Jaundice,It is effective and helped cure my Liver pain.,10.0,2022-01-01 00:00:00,34,Positive
+,Himalaya Liv. 52 DS Tablet,Jaundice,Well done medicine for liver and you feel good,10.0,2022-08-01 00:00:00,44,Positive
+,Himalaya Liv. 52 DS Tablet,Jaundice,Nice product. Effective,10.0,2022-08-03 00:00:00,23,Positive
+,Baidyanath Lohasava for Jaundice,Jaundice,Very good product for entire FD family,10.0,2022-08-05 00:00:00,56,Positive
+,Baidyanath Lohasava for Jaundice,Jaundice,May not be good for people with piles,6.0,2019-03-11 00:00:00,24,Negative
+,Baidyanath Lohasava for Jaundice,Jaundice,It was good and healthy,10.0,2019-05-09 00:00:00,35,Positive
+,Patanjali Divya Livogrit Tablet,Jaundice,Good for liver health so I like it,8.0,2022-06-03 00:00:00,22,Positive
+,Patanjali Divya Livogrit Tablet,Jaundice,Very effective medicine for liver,10.0,2022-10-30 00:00:00,34,Positive
+,Patanjali Divya Livogrit Tablet,Jaundice,This is the best Ayurvedic medicine to treat liver problems such as Keratitis and digestion issues,10.0,2023-02-25 00:00:00,55,Positive
+,Vaidyaratnam Patoladi Kashayam for Jaundice,Jaundice,Very Effective product for Jaundice,10.0,2023-04-12 00:00:00,33,Positive
+,Vaidyaratnam Patoladi Kashayam for Jaundice,Jaundice,Useful product,8.0,2023-07-23 00:00:00,23,Positive
+,Vaidyaratnam Patoladi Kashayam for Jaundice,Jaundice,Didn’t feel much change,5.0,2023-01-01 00:00:00,21,Negative
+,Cureveda Liver Support Supplement,Jaundice,This product very good. I like this product for my father. Very useful this product well performed.,10.0,2023-09-12 00:00:00,23,Positive
+,Cureveda Liver Support Supplement,Jaundice,Worked for me well enough,10.0,2023-12-03 00:00:00,34,Positive
+,Cureveda Liver Support Supplement,Jaundice,"I had 2 bottles, but not improve my liver enzymes values",6.0,2021-04-28 00:00:00,38,Negative
+,ENO Lemon Digestive Anatacid,"Indigestion,Stomachache,acidity",Timely delivered and good product,10.0,2024-01-20 00:00:00,26,Positive
+,ENO Lemon Digestive Anatacid,"Indigestion,Stomachache,acidity",Easy to use and it's effective,10.0,2023-11-07 00:00:00,27,Positive
+,ENO Lemon Digestive Anatacid,"Indigestion,Stomachache,acidity",Best in all aspects.,10.0,2024-01-13 00:00:00,28,Positive
+,Dabur Pudin Hara Pearls For Indigestion,"Indigestion,Stomachache,acidity",Best for Gas problem,10.0,2021-07-27 00:00:00,45,Positive
+,Dabur Pudin Hara Pearls For Indigestion,"Indigestion,Stomachache,acidity","Excellent product, really cool effect on the digestive system",9.0,2022-01-03 00:00:00,34,Positive
+,Dabur Pudin Hara Pearls For Indigestion,"Indigestion,Stomachache,acidity",Good digestive pill,10.0,2022-06-05 00:00:00,45,Positive
+,Himalaya Gasex Tablet,"Indigestion,Stomachache,acidity",its helpful for stomach,8.0,2021-11-24 00:00:00,34,Positive
+,Himalaya Gasex Tablet,"Indigestion,Stomachache,acidity",Very nice effective Easy to carry in journey,9.0,2022-07-22 00:00:00,26,Positive
+,Himalaya Gasex Tablet,"Indigestion,Stomachache,acidity",Good and effective way to control gas problem naturally,10.0,2022-07-14 00:00:00,45,Positive
+,Patanjali Ayurveda Bel Candy,"Indigestion,Stomachache,acidity",Very very helpful for digestion,10.0,2022-10-17 00:00:00,23,Positive
+,Patanjali Ayurveda Bel Candy,"Indigestion,Stomachache,acidity",I found it very good for strengthening digestive system and regulation of bowel movement.,9.0,2022-12-05 00:00:00,44,Positive
+,Patanjali Ayurveda Bel Candy,"Indigestion,Stomachache,acidity",Nice Product from Patanzali,10.0,2022-07-27 00:00:00,23,Positive
+,Maharishi Ayurveda Dizomap,"Indigestion,Stomachache,acidity",Good product try it it's giving good result,10.0,2021-09-19 00:00:00,34,Positive
+,Maharishi Ayurveda Dizomap,"Indigestion,Stomachache,acidity",Good results in indigestion and constipation,10.0,2022-06-08 00:00:00,20,Positive
+,Maharishi Ayurveda Dizomap,"Indigestion,Stomachache,acidity","This product is supposed to provide relief from constipation, on the contrary it caused severe constipation. Failed to provide relief.",3.0,2023-10-23 00:00:00,30,Negative
+,Volini Activ Pain Relief,Pain relief,Good purchase in valueable price,10.0,2024-01-27 00:00:00,39,Positive
+,Volini Activ Pain Relief,Pain relief,It is a fake product,4.0,2024-03-05 00:00:00,34,Negative
+,Volini Activ Pain Relief,Pain relief,Volini gel is effective as I get quick relief for my body pain,10.0,2023-09-17 00:00:00,33,Positive
+,Moov Fast Pain Relief Cream,Pain relief,"My grandfather had a neck pain so I bought it, it is effective and good",10.0,2023-10-21 00:00:00,32,Positive
+,Moov Fast Pain Relief Cream,Pain relief,Delivery was quick. Packing wasgood.On the whole it's value for money..,10.0,2023-10-14 00:00:00,32,Positive
+,Moov Fast Pain Relief Cream,Pain relief,I use many ain relief but moove is not so effective and also very sticky after washing it dosent wash out,7.0,2023-03-30 00:00:00,26,Neutral
+,Himalaya Rumalaya gel,Pain relief,"We already used it, very good",10.0,2023-12-23 00:00:00,46,Positive
+,Himalaya Rumalaya gel,Pain relief,"Highly recommended for blows, bruises, etc.",10.0,2023-12-17 00:00:00,45,Positive
+,Himalaya Rumalaya gel,Pain relief,"And for injuries, helping to repair is very good.",9.0, 27-Apr-2023,37,Positive
+,Dr Ortho Ayurvedic Pain Relief Oil,Pain relief,"I ordered for my grand father...it's working perfectly, I got at a good deal.",9.0,2024-03-03 00:00:00,34,Positive
+,Dr Ortho Ayurvedic Pain Relief Oil,Pain relief,Product is very nice and it help a lot to my mother muscle pain,10.0,2024-01-31 00:00:00,29,Positive
+,Dr Ortho Ayurvedic Pain Relief Oil,Pain relief,Go with zandu oil it will give good results.. this oil not good comparatively zandu oil,4.0,2024-03-07 00:00:00,30,Negative
+,Zandu Himani Fast Relief,Pain relief,A good pain reliever,10.0,2024-02-06 00:00:00,21,Positive
+,Zandu Himani Fast Relief,Pain relief,Best in Pain reliever. It’s herbal so it may not have side effects.,10.0,2021-10-20 00:00:00,20,Positive
+,Zandu Himani Fast Relief,Pain relief,"so so ok, not too effective",6.0,2016-08-31 00:00:00,25,Negative
+,Disprin Tablets,"Headache,Hypertension",Very good product.Packaging good,10.0,2023-03-30 00:00:00,34,Positive
+,Disprin Tablets,"Headache,Hypertension",I use this medicine headache,10.0,2021-10-01 00:00:00,56,Positive
+,Disprin Tablets,"Headache,Hypertension",As I haven't used much till now I won't see much difference. I will get back after one month. May be I need to use frequently.,7.0,2023-02-06 00:00:00,45,Positive
+,Amrutanjan Headache Roll-On,"Headache,Hypertension",Good head ache reliever,10.0,2022-03-04 00:00:00,65,Positive
+,Amrutanjan Headache Roll-On,"Headache,Hypertension",Relieves headache soon,10.0,2022-03-11 00:00:00,23,Positive
+,Amrutanjan Headache Roll-On,"Headache,Hypertension",Good quality product,10.0,2022-12-11 00:00:00,37,Positive
+,Saridon Advance Tablet,"Headache,Hypertension",Increases body heat,6.0,2022-02-21 00:00:00,35,Neutral
+,Saridon Advance Tablet,"Headache,Hypertension",Pretty good for my headache,8.0,2022-07-31 00:00:00,39,Positive
+,Saridon Advance Tablet,"Headache,Hypertension",The best headache medicine ever,10.0,2022-08-22 00:00:00,26,Positive
+,Iodex Balm for Headache,"Headache,Hypertension",Value for money must have old is gold,10.0,2023-11-23 00:00:00,45,Positive
+,Iodex Balm for Headache,"Headache,Hypertension",Excellent product,10.0,2022-07-29 00:00:00,24,Positive
+,Iodex Balm for Headache,"Headache,Hypertension",very nice balm,9.0,2021-07-14 00:00:00,21,Positive
+,Anacin Tablet,"Headache,Hypertension",Works efficiently,10.0,2022-07-15 00:00:00,22,Positive
+,Anacin Tablet,"Headache,Hypertension",Good quality product,9.0,2022-03-16 00:00:00,25,Positive
+,Anacin Tablet,"Headache,Hypertension",Value for money clears headche in minutes.,10.0,2022-09-17 00:00:00,46,Positive
+,The Old Natural Papaya Leaf Extract Tablets for Dengue,Dengue,It has helped me a lot for my health.It is worked very well and I am happy to use it,10.0, 5 April 2023,37,Positive
+,The Old Natural Papaya Leaf Extract Tablets for Dengue,Dengue,This product is good and helped to overcome the denque quickly and restores the energy,10.0,2024-02-02 00:00:00,38,Positive
+,The Old Natural Papaya Leaf Extract Tablets for Dengue,Dengue,The quality of the product is good due to its ingredients,10.0,2023-06-17 00:00:00,20,Positive
+,Pure Nutrition Naturals Papaya Leaf and Fruit Extract Supplement,Dengue,Effective in increasing platlets for dengue fever,10.0,2023-09-06 00:00:00,19,Positive
+,Pure Nutrition Naturals Papaya Leaf and Fruit Extract Supplement,Dengue,No use of using this instead of increasing platlets decrease,4.0,2023-08-09 00:00:00,24,Negative
+,Pure Nutrition Naturals Papaya Leaf and Fruit Extract Supplement,Dengue,Should be taken regularly Highly recommended for all kinds of fever as self medication,10.0,2022-07-21 00:00:00,45,Positive
+,Himalaya Healthcare Platenza Tablet,Dengue,Very useful to increase low Platelets due to dengue,10.0,2021-10-25 00:00:00,32,Positive
+,Himalaya Healthcare Platenza Tablet,Dengue,"Good product, it helped me to recollect & recover my platelets",10.0,2022-08-04 00:00:00,53,Positive
+,Himalaya Healthcare Platenza Tablet,Dengue,Not so effective to increase platelets count,6.0,2022-12-10 00:00:00,35,Negative
+,Dabur Platiforte Tablets,Dengue,Best dengue medicine,10.0,2022-11-11 00:00:00,64,Positive
+,Dabur Platiforte Tablets,Dengue,Not so effective in increase platelets count,4.0,2022-04-12 00:00:00,23,Negative
+,Dabur Platiforte Tablets,Dengue,Helps increase platelets.,8.0,2022-10-13 00:00:00,36,Positive
+,vitastal PLATELET BOOSTER SYRUP,Dengue,Best product for dengue,8.0,2022-09-14 00:00:00,24,Positive
+,vitastal PLATELET BOOSTER SYRUP,Dengue,Doesn’t work that great,4.0,2022-03-15 00:00:00,43,Negative
+,vitastal PLATELET BOOSTER SYRUP,Dengue,Don’t buy this product,5.0,2022-08-16 00:00:00,32,Negative
+,Himalaya Rumalaya Forte Tablets ,Arthritis,"IT IS A PRESCRIBED MEDICINE BY DOCTOR AND USED BY MY MOM, IT IS TOO EARLY TO COMMENT UPON.",6.0,2021-08-27 00:00:00,34,Neutral
+,Himalaya Rumalaya Forte Tablets ,Arthritis,In the hope of cure we take it. God knows what will happen.,6.0,2021-12-25 00:00:00,34,Neutral
+,Himalaya Rumalaya Forte Tablets ,Arthritis,Very good product,9.0,2021-12-30 00:00:00,24,Positive
+,Himalaya Rumalaya Liniment,Arthritis,Good for pain relief,10.0,2021-08-05 00:00:00,56,Positive
+,Himalaya Rumalaya Liniment,Arthritis,may contain mineral oil!,6.0,2021-08-11 00:00:00,34,Neutral
+,Himalaya Rumalaya Liniment,Arthritis,Good relief from pain.,9.0,2021-11-23 00:00:00,12,Positive
+,Amrith Noni Artho Plus,Arthritis,I am ordering second bottle of noni juice,10.0,2022-08-07 00:00:00,34,Positive
+,Amrith Noni Artho Plus,Arthritis,The first try is very good,10.0,2022-08-25 00:00:00,46,Positive
+,Amrith Noni Artho Plus,Arthritis,Started now will post on effectiveness after a 3 weeks,8.0,2022-09-26 00:00:00,67,Neutral
+,Tata 1mg Glucosamine HCL Tablet for Joint Health,Arthritis,"I have just started using it, at present I have no comments",7.0,2022-02-22 00:00:00,34,Neutral
+,Tata 1mg Glucosamine HCL Tablet for Joint Health,Arthritis,"Even after consuming 4 bottles till date I am not feeling the desired relief from pain , discomfort of knee joints",4.0,2021-10-16 00:00:00,56,Negative
+,Tata 1mg Glucosamine HCL Tablet for Joint Health,Arthritis,To early to comment on its benefits,7.0,2021-11-27 00:00:00,37,Negative
+,Ayuugain Ortho Oil,Arthritis,Not very effective,6.0,2024-02-29 00:00:00,34,Negative
+,Ayuugain Ortho Oil,Arthritis,I bought this for my mom it helps her muscle aches and joint pain,10.0, 21 Oct-2023,39,Positive
+,Ayuugain Ortho Oil,Arthritis,This oil is really effective. Fully Satisfied,10.0,2023-10-27 00:00:00,26,Positive
+,Himalaya Diarex Tablet,"Constipation,Diarrhea,Food poisoning",Causes constipation and heartburn,6.0,2021-12-11 00:00:00,27,Negative
+,Himalaya Diarex Tablet,"Constipation,Diarrhea,Food poisoning",Works well for dysentery,10.0,2022-06-13 00:00:00,39,Positive
+,Himalaya Diarex Tablet,"Constipation,Diarrhea,Food poisoning",Great for travel or non specific diarrhoea or disturbed stomach,10.0,2023-08-10 00:00:00,26,Positive
+,Dr. Vaidya's Constipation Relief Tablets,"Constipation,Diarrhea,Food poisoning",I hv accute constipation since long.it didn work for me.,5.0,2023-12-14 00:00:00,48,Negative
+,Dr. Vaidya's Constipation Relief Tablets,"Constipation,Diarrhea,Food poisoning","It is difficult to comment on this product , as may be useful dor somebody else. Where as for my body it does not work",6.0,2023-11-15 00:00:00,36,Negative
+,Dr. Vaidya's Constipation Relief Tablets,"Constipation,Diarrhea,Food poisoning",Works okay,7.0,2022-07-29 00:00:00,46,Neutral
+,Gynoveda Constipation Fast Relief Medicine,"Constipation,Diarrhea,Food poisoning","All you need to know is that it works and works well, without messing up your basic blood work and renal profile.",10.0,2022-11-20 00:00:00,35,Positive
+,Gynoveda Constipation Fast Relief Medicine,"Constipation,Diarrhea,Food poisoning",Did not work out as promoted .The product did not help much,5.0,2023-04-08 00:00:00,76,Negative
+,Gynoveda Constipation Fast Relief Medicine,"Constipation,Diarrhea,Food poisoning",Good quality and very effective.,10.0,2023-07-24 00:00:00,24,Positive
+,Kerala Ayurveda Triphala Tablet,"Constipation,Diarrhea,Food poisoning",It is easy on the stomach and comfortable for morning,10.0,2023-07-13 00:00:00,36,Positive
+,Kerala Ayurveda Triphala Tablet,"Constipation,Diarrhea,Food poisoning",It really works honestly. I'm so happy with the product always depended on english medicine,10.0,2023-10-11 00:00:00,3,Positive
+,Kerala Ayurveda Triphala Tablet,"Constipation,Diarrhea,Food poisoning",Seller should investigate the possibility of packing them in softer pouches!,7.0,2021-11-10 00:00:00,45,Neutral
+,Aayucure Wylex Constipation Medicine,"Constipation,Diarrhea,Food poisoning",Effective genuine product,10.0,2019-06-29 00:00:00,34,Positive
+,Aayucure Wylex Constipation Medicine,"Constipation,Diarrhea,Food poisoning",Good product,9.0,2019-06-29 00:00:00,24,Positive
+,Aayucure Wylex Constipation Medicine,"Constipation,Diarrhea,Food poisoning",Not working so well,4.0,2019-08-30 00:00:00,23,Negative
+,Crocin 650 Tablet,Fever,Very effective in body pain and mild fever,10.0,2021-07-01 00:00:00,45,Positive
+,Crocin 650 Tablet,Fever,Its good for fever or headache,10.0,2021-08-05 00:00:00,34,Positive
+,Crocin 650 Tablet,Fever,Takes toooooo long to measure temperature,4.0,2021-08-29 00:00:00,56,Negative
+,Dolo-650,Fever,Good for fever,10.0,2021-01-30 00:00:00,24,Positive
+,Dolo-650,Fever,Works immediately,9.0,2021-05-31 00:00:00,56,Positive
+,Dolo-650,Fever,Relieves fever soon,8.5,2021-04-01 00:00:00,34,Positive
+,Paracip 500 Tablet,Fever,My fever was relieved immediately after taking the tablet,10.0,2021-05-02 00:00:00,56,Positive
+,Paracip 500 Tablet,Fever,It is not working for me,6.0,2021-03-06 00:00:00,27,Negative
+,Paracip 500 Tablet,Fever,Worst tablet,3.0,2021-04-21 00:00:00,37,Negative
+,Advil,Fever,Very effective for fever,10.0,2022-04-05 00:00:00,37,Positive
+,Advil,Fever,Good for fever,10.0,2021-06-06 00:00:00,38,Positive
+,Advil,Fever,didn’t work,5.0,2021-04-07 00:00:00,28,Negative
+,ZERODOL-P TABLET,Fever,Awesome…. Verryyyy effective,10.0,2021-01-08 00:00:00,38,Positive
+,ZERODOL-P TABLET,Fever,My fever did not reduce hours after taking the medicine,3.0,2023-05-09 00:00:00,38,Negative
+,ZERODOL-P TABLET,Fever,okayish product,6.0,2023-12-10 00:00:00,37,Negative
+,Nicip Cold,"Cold,Sinusitis",Best in all aspects.,10.0,2021-02-11 00:00:00,34,Positive
+,Nicip Cold,"Cold,Sinusitis",Relieves fever soon,10.0,2022-12-12 00:00:00,25,Positive
+,Nicip Cold,"Cold,Sinusitis",Good quality product,10.0,2022-09-13 00:00:00,48,Positive
+,Cheston Cold,"Cold,Sinusitis",Awesome…. Verryyyy effective,10.0,2021-09-14 00:00:00,46,Positive
+,Cheston Cold,"Cold,Sinusitis",Very effective for cold,9.0,2023-03-15 00:00:00,24,Positive
+,Cheston Cold,"Cold,Sinusitis",Doesn’t work that great,4.0,2020-06-16 00:00:00,37,Negative
+,Cetzine Cold,"Cold,Sinusitis",Very very helpful for cold,9.0,2021-10-17 00:00:00,28,Positive
+,Cetzine Cold,"Cold,Sinusitis",My cold did not reduce hours after taking the medicine,3.0,2020-11-18 00:00:00,38,Negative
+,Cetzine Cold,"Cold,Sinusitis",My fever was relieved immediately after taking the tablet,10.0,2023-12-19 00:00:00,39,Positive
+,Himalayan Organics Organic Tulsi Tablets,"Cold,Sinusitis",The first try is very good,10.0,2023-08-20 00:00:00,39,Positive
+,Himalayan Organics Organic Tulsi Tablets,"Cold,Sinusitis",Worked for me well enough,8.5,2024-02-21 00:00:00,35,Positive
+,Himalayan Organics Organic Tulsi Tablets,"Cold,Sinusitis",Nice product. Effective,9.5,2023-05-22 00:00:00,37,Positive
+,Solvin Cold,"Cold,Sinusitis",Not very effective,6.0,2022-02-23 00:00:00,37,Negative
+,Solvin Cold,"Cold,Sinusitis",The medicine is okayish,7.0,2022-03-24 00:00:00,32,Neutral
+,Solvin Cold,"Cold,Sinusitis",Works good,9.0,2024-03-25 00:00:00,23,Positive
+,Zandu Ayurvedic Cough Syrup,Cough,good products and useful products for health,10.0,2021-12-03 00:00:00,24,Positive
+,Zandu Ayurvedic Cough Syrup,Cough,not useful in cough,4.0,2022-02-19 00:00:00,34,Negative
+,Zandu Ayurvedic Cough Syrup,Cough,Very effective for cough,8.0,2022-07-04 00:00:00,56,Positive
+,Tata 1mg Tejasya Cough Syrup,Cough,Good product value of money,10.0,2022-12-05 00:00:00,34,Positive
+,Tata 1mg Tejasya Cough Syrup,Cough,Very effective and good in taste,10.0,2023-01-06 00:00:00,64,Positive
+,Tata 1mg Tejasya Cough Syrup,Cough,its test is good Review on results will be provided later,8.0,2023-01-17 00:00:00,28,Positive
+,Dabur Broncorid Syrup,Cough,Somehow didn suit me or my family caused further irritation in throat,8.0,2021-12-24 00:00:00,32,Negative
+,Dabur Broncorid Syrup,Cough,The effectiveness could be improved,6.0,2022-08-05 00:00:00,27,Neutral
+,Dabur Broncorid Syrup,Cough,Medicine effectiveness is very less Not worth to Buy,4.0,2022-08-23 00:00:00,26,Negative
+,Dabur Honitus Honey-Based Cough Syrup,Cough,Good for every age,8.0,2021-07-01 00:00:00,46,Positive
+,Dabur Honitus Honey-Based Cough Syrup,Cough,Effective in relieving cough,10.0,2022-05-01 00:00:00,45,Positive
+,Dabur Honitus Honey-Based Cough Syrup,Cough,its sugar less and effective ayurvedic medicine,10.0,2022-05-05 00:00:00,24,Positive
+,Solvin Cough Tablet,Cough,Very effective tablet,10.0,2023-03-06 00:00:00,23,Positive
+,Solvin Cough Tablet,Cough,less effective,6.0,2020-02-07 00:00:00,24,Negative
+,Solvin Cough Tablet,Cough,didn’t work for me,3.0,2022-05-08 00:00:00,25,Negative
+,Colgate Pain Out Dental Gel,Tooth pain,Just after it is applied on the bleeding/swelling gum it stops bleeding and swelling is reduced within minutes,8.0,2021-05-09 00:00:00,27,Positive
+,Colgate Pain Out Dental Gel,Tooth pain,Fast pain relief,10.0,2021-07-01 00:00:00,27,Positive
+,Colgate Pain Out Dental Gel,Tooth pain,colgate Pain Out gave instant relief from tooth ache. Also helping in treating the infection,10.0,2021-09-02 00:00:00,28,Positive
+,Sri Sri Tattva Sudanta Tooth Drop,Tooth pain,Excellent for minor tooth aches and general oral hygiene.... a must in my family!!!,10.0,2022-04-25 00:00:00,37,Positive
+,Sri Sri Tattva Sudanta Tooth Drop,Tooth pain,Perfect for tooth pain Better than visiting dentist and fill their pockets Use alternative for pain killer drugs,10.0,2022-07-28 00:00:00,46,Positive
+,Sri Sri Tattva Sudanta Tooth Drop,Tooth pain,Very good product.,10.0,2022-11-12 00:00:00,35,Positive
+,Sensodyne Mouthwash Complete Protection,Tooth pain,It's become a daily routine to use this after my regular brushing. Highly recommend,10.0,2023-12-15 00:00:00,6,Positive
+,Sensodyne Mouthwash Complete Protection,Tooth pain,Sweeter but not as refreshing as other brands.,6.0,2023-12-22 00:00:00,53,Neutral
+,Sensodyne Mouthwash Complete Protection,Tooth pain,No effects...,2.0,2023-11-30 00:00:00,23,Negative
+,Orichem Ayurvedic Medicine Darh Dard,Tooth pain,Good product,8.0,2022-12-01 00:00:00,35,Positive
+,Orichem Ayurvedic Medicine Darh Dard,Tooth pain,No use.Dont buy,3.0,2023-09-02 00:00:00,35,Negative
+,Orichem Ayurvedic Medicine Darh Dard,Tooth pain,I recommend using this medicine when you have tooth ache,9.0,2021-07-03 00:00:00,37,Positive
+,Brufen 400 Tablet,Tooth pain,Very effective for tooth aches,10.0,2023-04-04 00:00:00,37,Positive
+,Brufen 400 Tablet,Tooth pain,Consult doctor before using the product,6.0,2021-02-05 00:00:00,37,Neutral
+,Brufen 400 Tablet,Tooth pain,Effectiveness could be improved ,6.0,2021-01-06 00:00:00,39,Neutral
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,Diabetes,I like the taste,10.0,2022-03-04 00:00:00,37,Positive
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,Diabetes,Good to health,10.0,2022-07-30 00:00:00,20,Positive
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,Diabetes,Very good product,10.0,2022-08-11 00:00:00,23,Positive
+,Kapiva Karela Jamun Juice,Diabetes,I used this product for two month but felt no effect.,6.0,2021-06-13 00:00:00,25,Negative
+,Kapiva Karela Jamun Juice,Diabetes,we are looking for a good quality Seem Karela Jamun Juice. In this one Seem is not there,6.0,2021-07-12 00:00:00,21,Negative
+,Kapiva Karela Jamun Juice,Diabetes,its good product to control blood sugar to some extent.This is not at all sour or bitter to taste.,10.0,2022-04-06 00:00:00,13,Positive
+,Satvam Advanced Diabetic Care- Dietary Supplement,Diabetes,This product really worked.,10.0,2023-12-23 00:00:00,24,Positive
+,Satvam Advanced Diabetic Care- Dietary Supplement,Diabetes,Product help to maintain my sugar balance.,10.0,2022-07-23 00:00:00,28,Positive
+,Satvam Advanced Diabetic Care- Dietary Supplement,Diabetes,not sufficient for the balance of glucose,5.0,2022-06-24 00:00:00,12,Negative
+,Himalaya Diabecon,Diabetes,It is very much effective.,10.0,2024-01-23 00:00:00,36,Positive
+,Himalaya Diabecon,Diabetes,It really works,8.0,2023-01-22 00:00:00,36,Positive
+,Himalaya Diabecon,Diabetes,It is said to have no side effects. No idea about long term use impact.,7.0,2023-05-28 00:00:00,43,Neutral
+,Health Veda Organics Diabetic Care Supplements,Diabetes,good medicine for diabetes care. It's natural supplements medicine .,10.0,2024-01-31 00:00:00,22,Positive
+,Health Veda Organics Diabetic Care Supplements,Diabetes,PRODUCT Is reasonably good I am using it for QUITE SOMETIMES,8.0,2024-02-17 00:00:00,21,Positive
+,Health Veda Organics Diabetic Care Supplements,Diabetes,Tried the product just once. Couldn't assess whether or not it really works good for the diabetics.,4.0,2024-01-16 00:00:00,23,Negative
+,Himalaya Hiora Regular MouthWash,"Mouthwash,Bad breath",Best mouthwash out there Feels different in mouth in first wash,10.0,2022-01-17 00:00:00,36,Positive
+,Himalaya Hiora Regular MouthWash,"Mouthwash,Bad breath",Best mouthwash i have ever used,10.0,2022-07-29 00:00:00,36,Positive
+,Himalaya Hiora Regular MouthWash,"Mouthwash,Bad breath",Good mouth wash,10.0,2022-11-09 00:00:00,36,Positive
+,Colgate Vedshakti Mouth Protect Spray,"Mouthwash,Bad breath",not very effective and not as per expectation.,6.0,2021-08-25 00:00:00,26,Negative
+,Colgate Vedshakti Mouth Protect Spray,"Mouthwash,Bad breath",Average work for mouth fresh,6.0,2022-09-21 00:00:00,38,Neutral
+,Colgate Vedshakti Mouth Protect Spray,"Mouthwash,Bad breath",Very good product,10.0,2022-10-03 00:00:00,35,Positive
+,Spraymintt Spraymint Mouth Freshener,"Mouthwash,Bad breath",I really recommend this product,10.0,2021-08-08 00:00:00,37,Positive
+,Spraymintt Spraymint Mouth Freshener,"Mouthwash,Bad breath",Good mouth freshner,9.0,2023-03-17 00:00:00,39,Positive
+,Spraymintt Spraymint Mouth Freshener,"Mouthwash,Bad breath",Not worth for money,4.0,2023-11-04 00:00:00,26,Negative
+,Colgate Plax Peppermint Fresh Mouthwash,"Mouthwash,Bad breath","I bought it on sale, so value for money ",8.0,2023-10-07 00:00:00,36,Positive
+,Colgate Plax Peppermint Fresh Mouthwash,"Mouthwash,Bad breath",great for daily use,10.0,2023-10-10 00:00:00,20,Positive
+,Colgate Plax Peppermint Fresh Mouthwash,"Mouthwash,Bad breath",It wont improve your horrible garlic & onion breath but it will reduce the stench drastically,10.0,2023-08-12 00:00:00,36,Positive
+,FRESH MELTZ Oral Hygiene Mouth Freshener,"Mouthwash,Bad breath",Compact and effective,8.0,2023-11-25 00:00:00,47,Positive
+,FRESH MELTZ Oral Hygiene Mouth Freshener,"Mouthwash,Bad breath",This is a good solution for a quick sugar free mouth freshener that is easy to carry and not too expensive.,9.0,2023-09-26 00:00:00,53,Positive
+,FRESH MELTZ Oral Hygiene Mouth Freshener,"Mouthwash,Bad breath","Its worth spending the amount , excellent result however not long lasting",10.0,2023-07-26 00:00:00,25,Positive
+,Daybreak Hyaluronic for Dry Mouth ,Dry mouth,It's not only effective but also easy to use. I've noticed a significant improvement in the health and appearance since incorporating it into my routine.,10.0,2024-01-17 00:00:00,46,Positive
+,Daybreak Hyaluronic for Dry Mouth ,Dry mouth,I have been using this as a substitute to my mouthwash and have been pretty happy using it so far.,10.0,2024-02-07 00:00:00,32,Positive
+,Daybreak Hyaluronic for Dry Mouth ,Dry mouth,This was a new kind of oral care product that I tried out.,7.0,2023-11-11 00:00:00,24,Neutral
+,ICPA Wet Mouth: Saliva substitute for dry mouth,Dry mouth,Wet Mouth helps me keep my mouth wet throughout the night... I recommend it for xerostomia patients.,10.0,2023-05-09 00:00:00,24,Positive
+,ICPA Wet Mouth: Saliva substitute for dry mouth,Dry mouth,Results was good,10.0,2022-11-04 00:00:00,36,Positive
+,ICPA Wet Mouth: Saliva substitute for dry mouth,Dry mouth,Not useful for dry mouth,3.0,2020-10-29 00:00:00,35,Negative
+,XyliDENT Xylitol Tablets for Dry Mouth Relief,Dry mouth,"They work great for dry mouth, and the flavor is much better than other products we've tried. The price is better, too!",10.0,2024-02-26 00:00:00,57,Positive
+,XyliDENT Xylitol Tablets for Dry Mouth Relief,Dry mouth,"The tablets help me a lot during the day, they have a light mint flavor. I'm going for the second purchase",9.5,2023-12-17 00:00:00,32,Positive
+,XyliDENT Xylitol Tablets for Dry Mouth Relief,Dry mouth,works well and have a good taste .,9.0,2023-11-18 00:00:00,25,Positive
+,ACT Dry Mouth Honey Lemon Lozenges,Dry mouth,I’m glad I stumbled on these while investigating remedies for dry mouth.,9.0, 7-Aug-2023,35,Positive
+,ACT Dry Mouth Honey Lemon Lozenges,Dry mouth,Used to use Biotene Gel. This is better. Easy to use and does the job.,9.0,2023-04-21 00:00:00,46,Positive
+,ACT Dry Mouth Honey Lemon Lozenges,Dry mouth,These lozenges are pretty tasty and help my dry mouth. ,8.0,2021-06-30 00:00:00,43,Positive
+,Biotene Dry Mouth Fluoride Toothpaste,Dry mouth,Since this is an imported product. It cost a lot,4.0,2019-07-14 00:00:00,25,Negative
+,Biotene Dry Mouth Fluoride Toothpaste,Dry mouth,Good toothpaste for people with dry mouth,10.0,2024-02-21 00:00:00,36,Positive
+,Biotene Dry Mouth Fluoride Toothpaste,Dry mouth,"Good product, I'm on time.",10.0,2020-03-23 00:00:00,32,Positive
+,Boroplus Antiseptic Cream,"Antiseptic,Burns",Genuine product as per described,10.0,2024-03-05 00:00:00,25,Positive
+,Boroplus Antiseptic Cream,"Antiseptic,Burns",Works very well ,10.0,2024-01-10 00:00:00,36,Positive
+,Boroplus Antiseptic Cream,"Antiseptic,Burns",Helps with many skin problem.,9.0,2024-01-17 00:00:00,36,Positive
+,Himalaya Herbals Antiseptic Cream,"Antiseptic,Burns","Excellent for small cuts, bruises, mosquito bites etc",100.0,2024-01-06 00:00:00,32,Positive
+,Himalaya Herbals Antiseptic Cream,"Antiseptic,Burns","It is really useful in daily life. It can heal rashes, itching, cuts quickly. Must have product.",9.0,2023-09-14 00:00:00,64,Positive
+,Himalaya Herbals Antiseptic Cream,"Antiseptic,Burns",The cream is good for applying on rashes and cuts.,8.0,2016-07-27 00:00:00,24,Positive
+,Boroline Antiseptic Ayurvedic Cream,"Antiseptic,Burns",Good product with good quality,10.0,2023-08-28 00:00:00,45,Positive
+,Boroline Antiseptic Ayurvedic Cream,"Antiseptic,Burns",All purpose cream with great formula. Trusted from ages. Vfm always,10.0,2023-10-13 00:00:00,24,Positive
+,Boroline Antiseptic Ayurvedic Cream,"Antiseptic,Burns",Delivery charges cost this product double of its original rate. And order cancellation option is not there,6.0,2023-03-06 00:00:00,29,Neutral
+,Dettol Antiseptic Liquid,"Antiseptic,Burns",Good quality and reasonable price. Easy accessibility marketing.,10.0,2024-01-25 00:00:00,26,Positive
+,Dettol Antiseptic Liquid,"Antiseptic,Burns",One of the best antiseptic,10.0,2024-02-13 00:00:00,25,Positive
+,Dettol Antiseptic Liquid,"Antiseptic,Burns",Quality is satisfactory,10.0,2024-02-12 00:00:00,24,Positive
+,BURNOL,"Antiseptic,Burns",the cream is very effective and price is satifactory,9.0,2021-02-13 00:00:00,21,Positive
+,BURNOL,"Antiseptic,Burns",best affordabale product,9.5,2024-03-14 00:00:00,13,Positive
+,BURNOL,"Antiseptic,Burns",Highly recommended for burns,9.0,2024-06-15 00:00:00,32,Positive
+,Vicks ZzzQuil Natura,"Insomnia, sleeping problem",I've been using it for a while in times when I can't sleep. Its tastes good and had no side-effects. Would recommend,10.0,2024-02-06 00:00:00,12,Positive
+,Vicks ZzzQuil Natura,"Insomnia, sleeping problem","I ordered it and have been using it for the past few days it surely works but only if you take it right before going to bed and not use any electronic devices such phone, pc after you took it",5.0,2023-10-22 00:00:00,45,Neutral
+,Vicks ZzzQuil Natura,"Insomnia, sleeping problem",Very nice product,9.0,2024-01-27 00:00:00,54,Positive
+,Himalaya Wellness Pure Herbs Tagara Sleep Wellness,"Insomnia, sleeping problem",Waste product.. Even taken 5 tablets all together.. ends with sleepless condition.,3.0,2023-11-15 00:00:00,23,Negative
+,Himalaya Wellness Pure Herbs Tagara Sleep Wellness,"Insomnia, sleeping problem"," My sleep quality has definitely improved. Now, I sleep better ",10.0, 22-Sep-2023,26,Positive
+,Himalaya Wellness Pure Herbs Tagara Sleep Wellness,"Insomnia, sleeping problem",It helps in restful sleep,9.0,2023-10-20 00:00:00,25,Positive
+,PLIX - THE PLANT FIX Melatonin Tablet Deep Sleep,"Insomnia, sleeping problem",This tablet never works even I used 2 tablets at one time but there was results I received.plz don’t buy it this is waste of money,2.0,2023-11-16 00:00:00,38,Negative
+,PLIX - THE PLANT FIX Melatonin Tablet Deep Sleep,"Insomnia, sleeping problem",I'd looking for something which would help me with my sleep cycle for a very long time.,10.0,2024-02-28 00:00:00,36,Positive
+,PLIX - THE PLANT FIX Melatonin Tablet Deep Sleep,"Insomnia, sleeping problem",Just for few hours sleep...Not that much.... price also high ...,6.0, 6-Mar-2024,34,Neutral
+,Carbamide Forte Melatonin Sleeping Aid Pills,"Insomnia, sleeping problem",Good for sleep,10.0, 9-Mar-2024,33,Positive
+,Carbamide Forte Melatonin Sleeping Aid Pills,"Insomnia, sleeping problem","My sleep cycle was too bad, thn i took this product after dinner n within half and hour i was feeling so relaxed so stress free and mind was at peace.",10.0,2024-02-06 00:00:00,22,Positive
+,Carbamide Forte Melatonin Sleeping Aid Pills,"Insomnia, sleeping problem",Not working bad,4.0,2024-01-09 00:00:00,21,Negative
+,HealthSetGo Sleep Gummies ,"Insomnia, sleeping problem",Sleep Gummies has been really helpful in completing and maintaining a healthy sleep schedule.,10.0,2024-03-04 00:00:00,23,Positive
+,HealthSetGo Sleep Gummies ,"Insomnia, sleeping problem",My problem of sleeping in late because I can't sleep most nights is gone! It helps your body relax so easier to fall asleep. No side effects,10.0,2024-01-11 00:00:00,24,Positive
+,HealthSetGo Sleep Gummies ,"Insomnia, sleeping problem",These gummies work really well to put me straight to bed and wake up refreshed.,9.0, 4-Mar-2024,2,Positive
+,Health Veda Organics Chelated Iron Folic Acid Supplement,"Anaemia, Iron deficiency",I am using this product from one month . It doesn't show any effect .,2.0, 31-Dec-2023,5,Negative
+,Health Veda Organics Chelated Iron Folic Acid Supplement,"Anaemia, Iron deficiency",The capsules within may be good but the packaging is pathetic. ,6.0,2023-12-13 00:00:00,26,Neutral
+,Health Veda Organics Chelated Iron Folic Acid Supplement,"Anaemia, Iron deficiency",This suppliment is very nice and is also good for the beginners as it has zinc and many other vitamins in it which helps to grow your muscles fast and effective,10.0,2024-01-31 00:00:00,22,Positive
+,ZEROHARM Iron with Zinc & Folic Acid tablets ,"Anaemia, Iron deficiency","I had been struggling with slow wound healing after a recent injury. Since incorporating this supplement into my daily routine, my wounds have been healing faster",10.0,2024-02-29 00:00:00,12,Positive
+,ZEROHARM Iron with Zinc & Folic Acid tablets ,"Anaemia, Iron deficiency",This supplement has significantly boosted my overall health in multiple ways.,10.0,2024-02-02 00:00:00,12,Positive
+,ZEROHARM Iron with Zinc & Folic Acid tablets ,"Anaemia, Iron deficiency","I've been using it for two and a half months now, and it's been incredibly effective. ",10.0,2024-01-17 00:00:00,3,Positive
+,Himalayan Organics Plant Based Iron Supplement With Folate,"Anaemia, Iron deficiency",Its a good capsule for the vitamin supplement,8.0,2023-04-15 00:00:00,34,Positive
+,Himalayan Organics Plant Based Iron Supplement With Folate,"Anaemia, Iron deficiency",Very very nice product,10.0,2023-07-23 00:00:00,35,Positive
+,Himalayan Organics Plant Based Iron Supplement With Folate,"Anaemia, Iron deficiency", I am only been talking for a month from now and see positive change in my energy,8.0,2021-07-15 00:00:00,45,Positive
+,Amway Nutrilite Cherry Iron-90 Tab,"Anaemia, Iron deficiency",Iron levels have increased without any side effects. Would suggest to consult Dr before using this.,8.0,2023-10-13 00:00:00,67,Positive
+,Amway Nutrilite Cherry Iron-90 Tab,"Anaemia, Iron deficiency",Ultimate product,10.0,2023-12-01 00:00:00,23,Positive
+,Amway Nutrilite Cherry Iron-90 Tab,"Anaemia, Iron deficiency",Ingredients and color is different with items sold by Amazon and Amway.,7.0,2023-09-05 00:00:00,23,Neutral
+,Gynoveda Iron Folic Acid Supplement ,"Anaemia, Iron deficiency",Found it to not irritate stomach which is good. Will wait to see how it affects over time. Costly for sure,5.0,2022-12-25 00:00:00,24,Negative
+,Gynoveda Iron Folic Acid Supplement ,"Anaemia, Iron deficiency",Value of money,10.0,2023-09-08 00:00:00,35,Positive
+,Gynoveda Iron Folic Acid Supplement ,"Anaemia, Iron deficiency",It didnt work for me..,2.0,2022-11-17 00:00:00,45,Negative
+,ZEROHARM Narie Thyroid Care Tablets,Thyroid,"Good formula for thyroid support.Thanks, Helping my wife with her low thyroid levels. She feels better. Seems this product is good and effective.",10.0,2023-08-12 00:00:00,34,Positive
+,ZEROHARM Narie Thyroid Care Tablets,Thyroid,"After use this medicine i feel light weight, more active and most of thing mood swings my mood is always calm and happy",10.0,2023-02-09 00:00:00,23,Positive
+,ZEROHARM Narie Thyroid Care Tablets,Thyroid,"This natural supplement helps regulate your thyroid production, resulting in improved metabolism, mood, and sleep. Good product.",10.0,2023-08-14 00:00:00,23,Positive
+,Health Veda Organics Thyroplus Supplement,Thyroid,Very useful product,10.0,2024-01-26 00:00:00,53,Positive
+,Health Veda Organics Thyroplus Supplement,Thyroid,I appreciate the blend of ingredients that promotes a balanced and healthy thyroid function. Grateful for this positive change in my daily life!,10.0,2022-10-13 00:00:00,23,Positive
+,Health Veda Organics Thyroplus Supplement,Thyroid,"I don't know if something is wrong with this product or not, there is a smell which was not in earlier order.",6.0,2023-10-02 00:00:00,45,Neutral
+,Gynoveda Kanchnar Guggulu Ayurvedic Tablets,Thyroid,Like it good and effective,10.0,2023-09-08 00:00:00,23,Positive
+,Gynoveda Kanchnar Guggulu Ayurvedic Tablets,Thyroid,After using for 8 months as instructed without skipping. It’s clear to me that this product is not effective just overhyped and overpriced,4.0,2022-05-28 00:00:00,32,Negative
+,Gynoveda Kanchnar Guggulu Ayurvedic Tablets,Thyroid,Don't even deserve one star my thyroid raised this is not at all good product to use,2.0,2023-01-08 00:00:00,42,Neutral
+,Baidyanath Kanchnar Guggulu Tablet for Thyroid Health,Thyroid,its reliable formulation,10.0,2022-02-01 00:00:00,23,Positive
+,Baidyanath Kanchnar Guggulu Tablet for Thyroid Health,Thyroid,Does its work.,8.0,2022-04-12 00:00:00,43,Positive
+,Baidyanath Kanchnar Guggulu Tablet for Thyroid Health,Thyroid,"Its good,but true feedback can be eventually because Am taking Dynofist also as per my gynecologist advice",8.0,2022-05-17 00:00:00,34,Positive
+,Traya Thyro Santulan- Ayurvedic Thyroid Supplements,Thyroid,Best thing happened to me for thyroid is this medicine. ,10.0,2024-02-27 00:00:00,23,Positive
+,Traya Thyro Santulan- Ayurvedic Thyroid Supplements,Thyroid,Wait has ended. This product really works.,10.0,2023-07-29 00:00:00,34,Positive
+,Traya Thyro Santulan- Ayurvedic Thyroid Supplements,Thyroid,This formula is excellent for providing support to the thyroid gland.,10.0,2023-07-03 00:00:00,32,Positive
+,Zandu Pancharishta,Gastric,It really helps from 1st night. I don't remember the last time i felt so light and relaxed. Very good product.,10.0,2024-03-01 00:00:00,43,Positive
+,Zandu Pancharishta,Gastric,I found it very effective. A must buy for those who have a disturbing experience of their gutt.,10.0,2024-01-04 00:00:00,23,Positive
+,Zandu Pancharishta,Gastric,Good product. Very good for digestion related problems.,10.0,2024-01-04 00:00:00,12,Positive
+,Himalaya Wellness Pure Herbs Yashtimadhu,Gastric,Good product from Himalaya.,10.0,2021-06-16 00:00:00,13,Positive
+,Himalaya Wellness Pure Herbs Yashtimadhu,Gastric,Useful for digestive system,10.0,2024-01-15 00:00:00,23,Positive
+,Himalaya Wellness Pure Herbs Yashtimadhu,Gastric,Expired products were sent. All 4 bottles were expired. Really bad experience,2.0,2024-01-28 00:00:00,45,Negative
+,Gelusil MPS Tablets,Gastric,"Amazon should withdraw from pharmacy services. It is a flop show. Make better arrangements, if possible. Good luck to you.",2.0,2024-03-10 00:00:00,32,Negative
+,Gelusil MPS Tablets,Gastric,Very effective and useful,10.0,2023-02-11 00:00:00,24,Positive
+,Gelusil MPS Tablets,Gastric,Genuine product as per described,10.0,2023-04-12 00:00:00,28,Positive
+,Digene Mint,Gastric,Works very well ,10.0,2024-05-13 00:00:00,37,Positive
+,Digene Mint,Gastric,best affordabale product,9.0,2023-02-14 00:00:00,38,Positive
+,Digene Mint,Gastric,Highly recommended for gastric,9.0,2021-04-15 00:00:00,40,Positive
+,Himalaya Gasex,Gastric,its reliable formulation,8.5,2020-04-16 00:00:00,30,Positive
+,Himalaya Gasex,Gastric,Does its work.,2.0,2023-09-17 00:00:00,31,Negative
+,Himalaya Gasex,Gastric,Formulation could have been improved,6.0,2023-11-18 00:00:00,22,Neutral
+,PENIKOSETE Cream Ayurvedic Solution For Varicose Veins,Vericose Veins,"Third class product, don’t go by the hype",2.0,2023-01-19 00:00:00,32,Negative
+,PENIKOSETE Cream Ayurvedic Solution For Varicose Veins,Vericose Veins,"Printing is I'll standard, we don't know when was it manufactured and when it is expiring",6.0,2020-03-20 00:00:00,25,Neutral
+,PENIKOSETE Cream Ayurvedic Solution For Varicose Veins,Vericose Veins,As usual like other. medicine oil no special in it,6.0,2023-11-21 00:00:00,24,Neutral
+,Varco Leg Care Topical Phyto Oil For Varicose Veins,Vericose Veins,I am using it for my leg but I see no improvement,3.0,2023-06-16 00:00:00,23,Negative
+,Varco Leg Care Topical Phyto Oil For Varicose Veins,Vericose Veins,Best for varicose vein,10.0,2024-01-29 00:00:00,27,Positive
+,Varco Leg Care Topical Phyto Oil For Varicose Veins,Vericose Veins,Slow action,7.0, 31-Jan-2024,25,Negative
+,Vedabay Varicose Veins Tablets,Vericose Veins,Very effective by using from day 1,10.0,2024-03-04 00:00:00,26,Positive
+,Vedabay Varicose Veins Tablets,Vericose Veins,Very good product,10.0,2022-01-05 00:00:00,37,Positive
+,Vedabay Varicose Veins Tablets,Vericose Veins,Slow effect,6.0,2021-07-06 00:00:00,34,Negative
+,Veincoze Advanced Formula Capsule for Varicose Veins,Vericose Veins,By using Veincoze pain in legs had reduced and my veins are also less visible,10.0,2023-01-05 00:00:00,23,Positive
+,Veincoze Advanced Formula Capsule for Varicose Veins,Vericose Veins,Its a brilliant medicine. The medicine has improved the condition of my varicose veins The swelling has reduced and so has my movement,10.0,2023-07-28 00:00:00,23,Positive
+,Veincoze Advanced Formula Capsule for Varicose Veins,Vericose Veins,highly effective product. There was sensation in my legs due to long standing . It really relieved me.,10.0,2023-12-16 00:00:00,54,Positive
+,BioticsLife Vericolyte Gel for Varicose Veins ,Vericose Veins,Effective medicine.must try,10.0,2022-09-10 00:00:00,34,Positive
+,BioticsLife Vericolyte Gel for Varicose Veins ,Vericose Veins,Not helping at all in reducing swelling anyway,4.0,2022-08-30 00:00:00,23,Negative
+,BioticsLife Vericolyte Gel for Varicose Veins ,Vericose Veins,My doctor suggested me to use this product. After continues use of this for 40 days my varicose veins were vanished from one leg.,10.0,2024-01-28 00:00:00,26,Positive
+,Carbamide Forte Brain Support Supplement,"Dementia,Memory boost,Alzeimar,Schizophrenzia","For those seeking a reliable supplement to support mental performance, Carbamide Forte delivers noticeable results.",10.0,2024-02-09 00:00:00,26,Positive
+,Carbamide Forte Brain Support Supplement,"Dementia,Memory boost,Alzeimar,Schizophrenzia",empowering you to unlock your full potential and excel in your daily tasks with clarity and vitality.,10.0,2024-03-08 00:00:00,27,Positive
+,Carbamide Forte Brain Support Supplement,"Dementia,Memory boost,Alzeimar,Schizophrenzia","After 20 days giving review, Found not effective",4.0,2023-12-08 00:00:00,29,Negative
+,Cureveda Herbal Brain Boost Tablet for Brain & Memory,"Dementia,Memory boost,Alzeimar,Schizophrenzia","My concentration power is definitely improving and as they are vegetarian tablets, they are very organic and good.",10.0,2023-12-09 00:00:00,10,Positive
+,Cureveda Herbal Brain Boost Tablet for Brain & Memory,"Dementia,Memory boost,Alzeimar,Schizophrenzia","Help to promote mentel wellness, inprove concentration, attention span.",10.0,2023-12-11 00:00:00,20,Positive
+,Cureveda Herbal Brain Boost Tablet for Brain & Memory,"Dementia,Memory boost,Alzeimar,Schizophrenzia",It's really a good product it's mentioned benefit's are visible within 2-3 days of regular pill intake.,10.0,2023-12-12 00:00:00,20,Positive
+,Health Veda Organics Plant Based Brain Memoriser ,"Dementia,Memory boost,Alzeimar,Schizophrenzia",Having this product from last Many days and having good results.,10.0,2024-01-27 00:00:00,21,Positive
+,Health Veda Organics Plant Based Brain Memoriser ,"Dementia,Memory boost,Alzeimar,Schizophrenzia",This is a fake product. Found a white powder mixed with the product and the powder is reddish in nature.,2.0,2023-11-11 00:00:00,12,Negative
+,Health Veda Organics Plant Based Brain Memoriser ,"Dementia,Memory boost,Alzeimar,Schizophrenzia",easy compliance. However it is too early to comment on efficacy.,5.0,2023-12-23 00:00:00,22,Neutral
+,Baidyanath Brahmi Bati - Memory Booster,"Dementia,Memory boost,Alzeimar,Schizophrenzia","I have been eating this medicine for the last 10 days and now its showing results... Takes away depression and loneliness, makes u mentally alert and calm",10.0,2018-03-20 00:00:00,13,Positive
+,Baidyanath Brahmi Bati - Memory Booster,"Dementia,Memory boost,Alzeimar,Schizophrenzia",Super quality product,10.0,2023-07-04 00:00:00,34,Positive
+,Baidyanath Brahmi Bati - Memory Booster,"Dementia,Memory boost,Alzeimar,Schizophrenzia","Baidyanath is not the same Baidyanath anymore. There's a lot of confusion with this brand, as it offers same thing in multiple packings and at different prices. ",5.0,2023-05-03 00:00:00,46,Neutral
+,Vedicure Branoved Granules for Brain & Memory Wellness,"Dementia,Memory boost,Alzeimar,Schizophrenzia",Taste is v nice and I actually feel more alert after having it before work everyday,10.0,2023-01-23 00:00:00,23,Positive
+,Vedicure Branoved Granules for Brain & Memory Wellness,"Dementia,Memory boost,Alzeimar,Schizophrenzia",it’s a good product and I would highly recommend,10.0,2023-01-18 00:00:00,34,Positive
+,Vedicure Branoved Granules for Brain & Memory Wellness,"Dementia,Memory boost,Alzeimar,Schizophrenzia",My kid manages to have it so I’m happy.Make the packet inside easy to access.,9.5,2023-02-01 00:00:00,30,Positive
+,Pankajakasthuri Breathe Eazy Granules,Asthma,This is a godsend for people who have breathing issues or have throat issues all the time,10.0,2024-01-21 00:00:00,43,Positive
+,Pankajakasthuri Breathe Eazy Granules,Asthma,This product only name not working,3.0,2024-02-15 00:00:00,32,Negative
+,Pankajakasthuri Breathe Eazy Granules,Asthma,We Regularly using this. Giving nice perfomance,10.0,2024-01-05 00:00:00,23,Positive
+,Charak Pharma Haleezy Tablets for Asthma,Asthma,Complete useless,4.0,2023-05-14 00:00:00,54,Negative
+,Charak Pharma Haleezy Tablets for Asthma,Asthma,This Tablets helped me to control astama.,8.0,2020-05-14 00:00:00,23,Positive
+,Charak Pharma Haleezy Tablets for Asthma,Asthma,"Quite good, getting results",9.0,2018-03-28 00:00:00,34,Positive
+,"Nisarga Herbs, Respirade",Asthma,Very effective product on sinus related issues and provides relief.,10.0,2023-11-10 00:00:00,23,Positive
+,"Nisarga Herbs, Respirade",Asthma,So far no side effects.,9.5, 7-Nov-2023,45,Positive
+,"Nisarga Herbs, Respirade",Asthma,Quality is medium improve the quality product,6.0,2020-12-05 00:00:00,22,Neutral
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness,Asthma,"Works like miracle.. i am suffering cold, cough & difficult to breath.",10.0,2022-10-29 00:00:00,23,Positive
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness,Asthma,Nothing worth of writing a review. Will not buy again.,4.0,2024-01-17 00:00:00,22,Negative
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness,Asthma,It's a very good product. No side effects.,10.0,2023-04-12 00:00:00,26,Positive
+,Organic India Breathe Free,Asthma,Excellent product. Very effective in my case of an allergic asthma.,10.0, 21-Oct-2014,28,Positive
+,Organic India Breathe Free,Asthma,This tablets helps in controlling asthama. Improves breathing capacity,10.0,2022-04-06 00:00:00,27,Positive
+,Organic India Breathe Free,Asthma,Start effecting after 20 days of use.,5.0,2023-05-01 00:00:00,33,Neutral
+,DABUR Arjuna Tablets,"Cholestrol,Heart Disease",Good product . Do not need now cholesterol drugs !!,8.0,2024-02-17 00:00:00,22,Positive
+,DABUR Arjuna Tablets,"Cholestrol,Heart Disease",It will take time to show Results,5.0,2023-09-01 00:00:00,21,Neutral
+,DABUR Arjuna Tablets,"Cholestrol,Heart Disease",Great product at good prices,10.0,2023-12-28 00:00:00,24,Positive
+,Organic India Lipidcare,"Cholestrol,Heart Disease"," Packing, quality of the product and quantity is excellent at this price.",10.0,2023-08-06 00:00:00,26,Positive
+,Organic India Lipidcare,"Cholestrol,Heart Disease",It is effective. Saved me from Statins. Heartfelt gratitude.,10.0,2023-10-04 00:00:00,27,Positive
+,Organic India Lipidcare,"Cholestrol,Heart Disease",Feels bloated so stopped using it,4.0,2023-12-31 00:00:00,24,Negative
+,Himalaya Wellness Pure Herbs Lasuna Cardiac Wellness Tablet ,"Cholestrol,Heart Disease",Laguna works excellently against high cholestrol,10.0,2022-09-10 00:00:00,33,Positive
+,Himalaya Wellness Pure Herbs Lasuna Cardiac Wellness Tablet ,"Cholestrol,Heart Disease",Average. Did not bring down my cholestrol levels,5.0,2022-12-06 00:00:00,43,Neutral
+,Himalaya Wellness Pure Herbs Lasuna Cardiac Wellness Tablet ,"Cholestrol,Heart Disease",Good product for cholestrol control,10.0,2023-05-08 00:00:00,31,Positive
+,Dabur Lipistat Capsule with Arjuna & Guggulu,"Cholestrol,Heart Disease",Use it for better result.,10.0,2019-07-12 00:00:00,21,Positive
+,Dabur Lipistat Capsule with Arjuna & Guggulu,"Cholestrol,Heart Disease",Have not tested livid profile so far,7.0,2022-03-19 00:00:00,23,neutral
+,Dabur Lipistat Capsule with Arjuna & Guggulu,"Cholestrol,Heart Disease",Gentle and effective,9.5,2022-12-02 00:00:00,20,Positive
+,Zandu Arjuna Capsules ,"Cholestrol,Heart Disease",This is a good product and I find it's working great.,10.0,2023-07-09 00:00:00,24,Positive
+,Zandu Arjuna Capsules ,"Cholestrol,Heart Disease",I  like this product. I use this product for cholesterol,10.0,2024-01-04 00:00:00,35,Positive
+,Zandu Arjuna Capsules ,"Cholestrol,Heart Disease"," I used to feel some discomfort in heart and after using these capsules, Im feeling much better and having self confidence that my heart would be safe with this medication.",10.0,2023-08-12 00:00:00,46,Positive
+,Kapiva BP Care Juice,Blood pressure(BP),"Great product, helps in cleansing toxins & feel fresh through out the day",10.0,2023-12-17 00:00:00,33,Positive
+,Kapiva BP Care Juice,Blood pressure(BP), My BP has also come to normal. I am very lucky to have found this wonderful product.,10.0,2020-06-29 00:00:00,24,Positive
+,Kapiva BP Care Juice,Blood pressure(BP),Result will be known in few months I am optimistic,9.5,2024-01-08 00:00:00,24,Positive
+,Maharishi Ayurveda Cardimap,Blood pressure(BP),"Good products, very effictive on blood pressure",10.0,2024-01-31 00:00:00,43,Positive
+,Maharishi Ayurveda Cardimap,Blood pressure(BP),"From the very first uses breathing problem, burning sensation in eyes n block nose happens.So I stop using after using 7 days.",4.0,2024-02-13 00:00:00,35,Negative
+,Maharishi Ayurveda Cardimap,Blood pressure(BP),The product works good on regulating blood pressure,10.0,2023-08-14 00:00:00,23,Positive
+,Himalaya Organic Arjuna for Blood Pressure,Blood pressure(BP),The pills are super easy to swallow and have no after taste. Help with improving energy levels and also help with sound sleep,10.0,2024-03-05 00:00:00,24,Positive
+,Himalaya Organic Arjuna for Blood Pressure,Blood pressure(BP),This is extremely effective for me. I see marked drop in my BP.,10.0,2023-11-12 00:00:00,12,Positive
+,Himalaya Organic Arjuna for Blood Pressure,Blood pressure(BP),This medicine is good for your blood pressure and they work perfectly. Worth the money. They are also easy to swallow. And they have no effect on the skin.,10.0,2023-11-08 00:00:00,33,Positive
+,Health Veda Organics B Capsules ,Blood pressure(BP),Helpful product and valuable,9.0, 24-Oct-2023,32,Positive
+,Health Veda Organics B Capsules ,Blood pressure(BP),I used this previously this is really vegan,9.5,2023-12-18 00:00:00,31,Positive
+,Health Veda Organics B Capsules ,Blood pressure(BP),It is found that the quality of caps of the bottles is very poor and doesn't open or close easily.,7.0,2023-12-13 00:00:00,30,Neutral
+,"Nveda BP Control for Blood pressure, Ayurvedic Medicine",Blood pressure(BP),It consistently maintains healthy blood pressure levels without side effects. ,10.0,2024-01-20 00:00:00,34,Positive
+,"Nveda BP Control for Blood pressure, Ayurvedic Medicine",Blood pressure(BP),Actually its working.. help to control bp level,10.0,2023-10-01 00:00:00,35,Positive
+,"Nveda BP Control for Blood pressure, Ayurvedic Medicine",Blood pressure(BP),"I have been using it since last 2 weeks twice a day, my BP reduced from 150 to 125 and is sustained at this level.",10.0, 5-Aug-2023,36,Positive
+,Holo ZEROHARM HoloOncolis Holistic Cancer Care Tablets,Cancer,"Holo Oncolis contains a synergistic blend of herbs and nutrients that are known for their anti-cancer properties, providing comprehensive support for those undergoing cancer treatment.",10.0, 19-Mar-2023,37,Positive
+,Holo ZEROHARM HoloOncolis Holistic Cancer Care Tablets,Cancer,This product is made with totally plant based natural ingredients with no side effects.,10.0, 19-Dec-2022,38,Positive
+,Holo ZEROHARM HoloOncolis Holistic Cancer Care Tablets,Cancer,Good product good paking but expiry date near one month only this is very sad..,7.0,2023-01-04 00:00:00,37,Neutral
+,Wellness Mantra KarsiGo Ayurvedic Capsules for Holistic Cancer Care,Cancer,My father is taking this medicine on recommendation by one of patient he met at hospital and seeing great results with no such side effects.,10.0,2021-10-11 00:00:00,24,Positive
+,Wellness Mantra KarsiGo Ayurvedic Capsules for Holistic Cancer Care,Cancer,"Was recommended to take this by a Doctor, these are great anti oxidant capsules with all natural ingredients. Very effective supplement for cancer care. Good product, positive results.",9.0,2023-06-13 00:00:00,25,Positive
+,Wellness Mantra KarsiGo Ayurvedic Capsules for Holistic Cancer Care,Cancer," Great, good quality product at a reasonable price.",10.0,2023-07-08 00:00:00,25,Positive
+,Axiom_Ayurveda Helpful in Cancer,Cancer,This is a nice product. I am using this for cancer patient.,8.0,2019-07-19 00:00:00,27,Positive
+,Axiom_Ayurveda Helpful in Cancer,Cancer,Used it and found effective with other normal restraints.,9.0, 9-Jan-2022,28,Positive
+,Axiom_Ayurveda Helpful in Cancer,Cancer,Effective Medicine,9.5,2021-10-01 00:00:00,23,Positive
+,Cancertame Ayurvedic,Cancer,My elder brother has been taking cancertame for almost 5 months now and the results have been great till now with tumor being in regression & lower ca 19-9 values.,9.5,2019-07-27 00:00:00,34,Positive
+,Cancertame Ayurvedic,Cancer,I have started taking the pills 2 per daily. It is too early to comment,6.0,2020-08-18 00:00:00,32,Neutral
+,Cancertame Ayurvedic,Cancer,"Beneficial medicine for metastatic bladder cancer, took along with chemotherapy.",10.0,2019-09-15 00:00:00,43,Positive
+,Pulse Canwel Cancer Care Nutrition,Cancer,very effective.Helps manage protein levels,9.0,2020-10-16 00:00:00,23,Positive
+,Pulse Canwel Cancer Care Nutrition,Cancer,good medicine.Prevents recurrence,8.5,2019-03-17 00:00:00,12,Positive
+,Pulse Canwel Cancer Care Nutrition,Cancer,speed up the recovery of damaged tissues after chemotheraphy,9.0,2021-01-18 00:00:00,13,Positive
+,Pankajakasthuri - Breathe Easy Tablets,Rhintis,Highly effective for allergies,10.0,2022-01-17 00:00:00,23,Positive
+,Pankajakasthuri - Breathe Easy Tablets,Rhintis,Using for 4 days. Can see the difference in Breathing. Nose Block is also reduced,10.0,2021-11-10 00:00:00,45,Positive
+,Pankajakasthuri - Breathe Easy Tablets,Rhintis,never buy on Amazon because packaging seal is broken while shipping.,4.0,2021-03-01 00:00:00,32,Negative
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness ,Rhintis,"Product is nice but package was torn , looks like someone tried to check the product",6.0,2022-01-30 00:00:00,24,Neutral
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness ,Rhintis,"Excellent product , God bless",10.0,2023-10-20 00:00:00,28,Positive
+,Himalaya Wellness Pure Herbs Tulasi Respiratory Wellness ,Rhintis,It's a very good product. No side effects.,10.0,2020-05-28 00:00:00,37,Positive
+,ORGANIC INDIA Breathe Free Ayurvedic Capsule,Rhintis,"Started using now only. Need to see how this medicine works,being ayurvedic it may take 2 to 3 months to get results. Let me see.",8.0,2021-05-19 00:00:00,38,Positive
+,ORGANIC INDIA Breathe Free Ayurvedic Capsule,Rhintis,found the medicine effective,8.0, 20-Sep-2023,40,Positive
+,ORGANIC INDIA Breathe Free Ayurvedic Capsule,Rhintis,I am using this from last 5-6 months and I can vouch for the effectiveness.,8.0, 21-Jan-2022,30,Positive
+,Cipla Naselin Saline Spray,Rhintis,Regular use prevents nasal congestion.,10.0,2022-11-01 00:00:00,31,Positive
+,Cipla Naselin Saline Spray,Rhintis,Please don't believe in this item anymore zero effective if your nose is blocked,4.0, 19 July 2023,22,Negative
+,Cipla Naselin Saline Spray,Rhintis,Love.. Product 3 years alergy going...,10.0,2023-11-28 00:00:00,32,Positive
+,Vicks VapoRub SteamPods,Rhintis,These small Vicks pods works like magic . They are highly effective and convenient to use,10.0,2024-02-26 00:00:00,25,Positive
+,Vicks VapoRub SteamPods,Rhintis,A very easy to use and helpful product..earlier it was not convenient to take steam..now it is way easier and effective,9.0,2023-12-13 00:00:00,24,Positive
+,Vicks VapoRub SteamPods,Rhintis,"Overall, the Vicks VapoRub Steampod is a must-have for anyone seeking fast, effective relief from congestion and respiratory discomfort",10.0,2024-02-13 00:00:00,23,Positive
+,Himalaya Clarina Anti-Acne Cream ,Acne,Worsened my acne,4.0,2022-02-03 00:00:00,27,Negative
+,Himalaya Clarina Anti-Acne Cream ,Acne,Nice product,10.0,2022-10-22 00:00:00,25,Positive
+,Himalaya Clarina Anti-Acne Cream ,Acne,Though the packaging is different from the image shown but it's work very nice,7.0,2023-08-03 00:00:00,26,Positive
+,Acnestar Gel,Acne,It really helps to reduce my pimples and bumps,10.0,2016-12-06 00:00:00,37,Positive
+,Acnestar Gel,Acne,Nice product,9.0,2018-08-30 00:00:00,34,Positive
+,Acnestar Gel,Acne,This cream makes pimples disappear in two three days!!!,10.0,2015-04-22 00:00:00,23,Positive
+,Jovees Herbal Anti Acne,Acne,"Very good products, removes acne as well as marks",10.0,2016-11-16 00:00:00,23,Positive
+,Jovees Herbal Anti Acne,Acne,Trust me this is the best product for you..... I have myself used it daily after bath for just 2months and I am amazed with the result.,10.0,2023-06-23 00:00:00,54,Positive
+,Jovees Herbal Anti Acne,Acne,"Purchased for acne problem, but didn’t help at all",4.0,2020-08-29 00:00:00,34,Negative
+,Dot & Key Cica Clear Spot Correction Gel,Acne,Sticky so best to apply at night after moisturiser or serums.,8.0,2024-01-12 00:00:00,23,Positive
+,Dot & Key Cica Clear Spot Correction Gel,Acne,Works overnight for small pimple.Takes 3 -4 days for large pimples,9.0,2024-02-11 00:00:00,26,Positive
+,Dot & Key Cica Clear Spot Correction Gel,Acne,It's doesn't start working immediately but works over time(1-2weeks),8.0,2023-10-01 00:00:00,26,Neutral
+,Sebamed Clear Face Care Gel,Acne,It absorbs within a minute and gives an oil free flawless skin.,6.0,2023-12-22 00:00:00,27,Positive
+,Sebamed Clear Face Care Gel,Acne,Good product..useful for oily skin,10.0,2024-01-28 00:00:00,29,Neutral
+,Sebamed Clear Face Care Gel,Acne,It's a gem product if you have oily & acne prone skin ,10.0,2024-02-18 00:00:00,10,Positive
+,Parodontax Daily Fluoride Gum Care Toothpaste,Gum care,"Within few weeks of using this, the gum problems were fixed and after a few months of using it, the filled in tooth, which used to get sensitive sometimes also became quite strong",10.0,2023-11-07 00:00:00,20,Positive
+,Parodontax Daily Fluoride Gum Care Toothpaste,Gum care,Effective product,10.0,2024-03-13 00:00:00,20,Positive
+,Parodontax Daily Fluoride Gum Care Toothpaste,Gum care,Its a little too salty,7.0,2024-02-28 00:00:00,21,Neutral
+,Himalaya AYURVEDA GUM CARE,Gum care,This is one of the best toothpaste also quality wise and value for money.Don't think too more to buy this product.,10.0,2024-01-23 00:00:00,12,Positive
+,Himalaya AYURVEDA GUM CARE,Gum care,Not very effective. I feel dryness in my teeth few hours after brushing with this paste. Buy dabur red instead.,4.0,2023-12-24 00:00:00,22,Negative
+,Himalaya AYURVEDA GUM CARE,Gum care,"Actually I finding such a type of toothpaste which is completely natural,Feel fresh and also remove bed smell coming out of mouth.",7.5,2023-11-26 00:00:00,13,Neutral
+,Maharishi Ayurveda Ayurdent Gum Care Oil,Gum care,its effective and good,9.0,2024-01-26 00:00:00,34,Positive
+,Maharishi Ayurveda Ayurdent Gum Care Oil,Gum care,This is looking a lot more promising.,9.0, 10-Jan-2024,46,Positive
+,Maharishi Ayurveda Ayurdent Gum Care Oil,Gum care,It really works! I recommend it!,8.0,2023-06-18 00:00:00,23,Positive
+,Listerine Advanced Defence Gum Treatment ,Gum care, I confirm its effectiveness thank you,10.0,2023-10-15 00:00:00,34,Positive
+,Listerine Advanced Defence Gum Treatment ,Gum care,"perfect seller, would be happy to shop here again, goods highly recommended",10.0,2022-10-16 00:00:00,30,Positive
+,Listerine Advanced Defence Gum Treatment ,Gum care, It works great,10.0, 29-Feb-2024,43,Positive
+,SENSORA Gum Care Toothpaste For Complete Oral Care ,Gum care,I use this product past 4 months but no use,3.0,2024-02-22 00:00:00,32,Negative
+,SENSORA Gum Care Toothpaste For Complete Oral Care ,Gum care,very good tasty and good product,10.0,2022-12-06 00:00:00,23,Positive
+,SENSORA Gum Care Toothpaste For Complete Oral Care ,Gum care,Very nice,9.0,2024-02-16 00:00:00,54,Positive
+,Himalaya Pilex Tablets,"Piles,Fissure",Guys this medicine is really works,10.0,2023-11-11 00:00:00,23,Positive
+,Himalaya Pilex Tablets,"Piles,Fissure",Working But Slowly,7.0,2024-03-14 00:00:00,34,Positive
+,Himalaya Pilex Tablets,"Piles,Fissure",I haven't seen any results while having these tablets.,4.0, 15-Jan-2024,23,Negative
+,Cureveda Piles Peace Herbal Tablets ,"Piles,Fissure", This product worked extremely well to relieve from pain and bleeding problem of piles,10.0,2024-02-25 00:00:00,45,Positive
+,Cureveda Piles Peace Herbal Tablets ,"Piles,Fissure",Good relief from pain. Highly recommended.,10.0,2024-03-03 00:00:00,22,Positive
+,Cureveda Piles Peace Herbal Tablets ,"Piles,Fissure",Patient did not find any favourable improvement after taking the dose as guided,5.0, 10-Dec-2023,23,Negative
+,MACAMO Cure Piles Tablets,"Piles,Fissure","Within a week, his condition improved significantly, and he has not faced any side effects so far. ",10.0, 5-Dec-2024,22,Positive
+,MACAMO Cure Piles Tablets,"Piles,Fissure","Not upto the mark, no much difference after using it.",3.0, 02-Dec-2025,26,Negative
+,MACAMO Cure Piles Tablets,"Piles,Fissure","After using this for a week, things have gotten better for him. Regards and a recommendation",10.0, 17-Feb-2024,28,Positive
+,NutrinoPlus Piles Care Fast Relief,"Piles,Fissure",It works amazingly 4 months using this product,10.0, 12 April 2023,27,Positive
+,NutrinoPlus Piles Care Fast Relief,"Piles,Fissure",Worst product,3.0,2023-08-03 00:00:00,33,Neutral
+,NutrinoPlus Piles Care Fast Relief,"Piles,Fissure",Great results after 1 month of usiing,10.0,2023-04-12 00:00:00,22,Positive
+,Matsya Veda FixoPile ,"Piles,Fissure",My father was suffering from piles for a few years. he even had an operation but it grew back after few months. taking this medicine finally he has some relief. ,10.0,2023-01-22 00:00:00,21,Positive
+,Matsya Veda FixoPile ,"Piles,Fissure",Works great,10.0,2023-04-14 00:00:00,24,Positive
+,Matsya Veda FixoPile ,"Piles,Fissure",packaging is not good,7.0,2023-03-15 00:00:00,26,Neutral
+,ZEROHARM Narie Pcos/Pcod Care Tablets,PCOS/PCOD,loved it and happy to use the product.I have been using for one month only and it's effective.,10.0,2023-02-26 00:00:00,27,Positive
+,ZEROHARM Narie Pcos/Pcod Care Tablets,PCOS/PCOD,Have been using this for a while now and I can see the results. I would definitely recommend this to my friends.,10.0,2023-10-21 00:00:00,24,Positive
+,ZEROHARM Narie Pcos/Pcod Care Tablets,PCOS/PCOD,Really good product for periods care.Be continue for your healthy life.,10.0, 16-Sep-2023,33,Positive
+,Health Veda Organics Plant Based PCOS Multivitamin,PCOS/PCOD,Overall all necessary ingredients are used in it. And the product is doing good work.,10.0, 7-Dec-2023,43,Positive
+,Health Veda Organics Plant Based PCOS Multivitamin,PCOS/PCOD,"Having PCOS, I was looking for some stuff to help me with my symptoms and this seems to do exactly that. I'd recommend this to others as well",9.0,2024-01-21 00:00:00,31,Positive
+,Health Veda Organics Plant Based PCOS Multivitamin,PCOS/PCOD,This is really effevtive,9.0,2024-01-06 00:00:00,21,Positive
+,Kapiva PCOS Care Tablets ,PCOS/PCOD,Tablets have been very useful for me. Have been taking them for two months now..,10.0,2022-09-08 00:00:00,23,Positive
+,Kapiva PCOS Care Tablets ,PCOS/PCOD,It was good,10.0,2023-03-05 00:00:00,20,Positive
+,Kapiva PCOS Care Tablets ,PCOS/PCOD,Best ayurvedic med for cramps and period related problems.,10.0, 31-Aug-2022,24,Positive
+,Bodywise PCOS Balance Capsules,PCOS/PCOD,Took for facial hair prblm and Mild pcos symptoms.,10.0,2023-09-02 00:00:00,35,Positive
+,Bodywise PCOS Balance Capsules,PCOS/PCOD,Start hairfall not suitable,4.0,2023-04-18 00:00:00,46,Negative
+,Bodywise PCOS Balance Capsules,PCOS/PCOD,Got good result in 2 months. No side effects... Complety safe.,10.0, 9-May-2023,33,Positive
+,Bliss Welness PCOS Support,PCOS/PCOD,Found it very useful…good product,10.0, 13-03-2024,24,Positive
+,Bliss Welness PCOS Support,PCOS/PCOD,Helps for pcod problems,10.0, 9-11-2022,24,Positive
+,Bliss Welness PCOS Support,PCOS/PCOD,started hairfall,3.0, 9-05-2026,43,Negative
+,Health Veda Organics Vitamin D3,Vitamins,"Overall, I highly recommend this tablets as part of my daily supplement routine",10.0,2024-02-02 00:00:00,35,Positive
+,Health Veda Organics Vitamin D3,Vitamins,It is very useful and helpful for your health,10.0,2023-07-22 00:00:00,23,Positive
+,Health Veda Organics Vitamin D3,Vitamins,Very effective for bones & joints.,10.0,2024-02-03 00:00:00,24,Positive
+,N Satvam Vitamin D3 Supplement,Vitamins,I used to have leg pains after having this I got relief ,10.0, 23-Sep-2022,12,Positive
+,N Satvam Vitamin D3 Supplement,Vitamins,Good product and worth the money.,10.0, 23-Sep-2022,33,Positive
+,N Satvam Vitamin D3 Supplement,Vitamins,Product seems to be ok.. Not sure about its effectiveness..,7.0, 25-Sep-2023,32,Neutral
+,Himalayan Organics Vitamin D3,Vitamins,"This product is suitable for those who have weak bones and lack of immunity power, totally recommended.",8.0,2024-02-21 00:00:00,31,Positive
+,Himalayan Organics Vitamin D3,Vitamins,"Since starting this supplement, I've felt a remarkable improvement in my energy levels, and my bones feel stronger than ever.",10.0,2024-02-05 00:00:00,30,Positive
+,Himalayan Organics Vitamin D3,Vitamins,I liked the product.... Tablets are fully enriched with vitamins... It is easy to swallow and and good in taste,8.0,2024-02-16 00:00:00,34,Positive
+,Carbamide Forte Vitamin D3,Vitamins, A good option for people looking for natural d3 supplement.,10.0, 3 April 2023,35,Positive
+,Carbamide Forte Vitamin D3,Vitamins,I like this brand. This is their second product I am purchasing from this brand.,10.0,2023-06-01 00:00:00,36,Positive
+,Carbamide Forte Vitamin D3,Vitamins,After buying their popular multivitamin gummies product. Satisfied with both products. Would recommend.,10.0,2023-01-03 00:00:00,37,Positive
+,Nutrazee Vegan Vitamin D3 Supplement,Vitamins,The product comes in nice attractive packing,8.0,2023-04-01 00:00:00,38,Positive
+,Nutrazee Vegan Vitamin D3 Supplement,Vitamins,Small capsules. loving it,8.0,2023-04-03 00:00:00,37,Positive
+,Nutrazee Vegan Vitamin D3 Supplement,Vitamins,The product is really good,8.5,2023-06-01 00:00:00,24,Positive
+,Swisse Vegan Calcium tablets,Calcium,Provides back pain relief caused due to baby birth or any other condition. Have been using it since couple of days . Satisfied with the quality of the product,10.0,2021-09-06 00:00:00,25,Positive
+,Swisse Vegan Calcium tablets,Calcium,The product received is good. Waiting for the results to come after a few days.,10.0,2021-09-29 00:00:00,25,Positive
+,Swisse Vegan Calcium tablets,Calcium,"After using four days, I got extreme pain in my leg,so that I can stop using immediately. Product is not suitable for all.",7.0, 8-Sep-2023,27,Neutral
+,Nveda Calcium Supplement ,Calcium, Highly recommended for anyone needing to boost their calcium intake.,10.0,2024-03-15 00:00:00,28,Positive
+,Nveda Calcium Supplement ,Calcium,Good Purchase at this price.. You can purchase without any doubt.,10.0, 14-Mar-2024,23,Positive
+,Nveda Calcium Supplement ,Calcium,"tablets size is very its hard to swallow ,waste of money its not helping at all",2.0,2024-02-25 00:00:00,34,Negative
+,Boldfit Calcium Tablets,Calcium,Best tablet for person suffering from  calcium deficiency,10.0,2023-04-14 00:00:00,32,Positive
+,Boldfit Calcium Tablets,Calcium,Feeling a slighter improvement on health,9.5,2023-06-13 00:00:00,43,Positive
+,Boldfit Calcium Tablets,Calcium,Overall I would totally recommend this product to add in our daily life,9.5, 16 April 2023,23,Positive
+,HealthKart HK Vitals Calcium,Calcium,Nice and good for my family,10.0,2023-08-13 00:00:00,12,Positive
+,HealthKart HK Vitals Calcium,Calcium,This supplement is good..,10.0,2023-09-26 00:00:00,13,Positive
+,HealthKart HK Vitals Calcium,Calcium,Use regular - its working and usefull. I am continue using one tab in a day,8.0,2023-08-13 00:00:00,23,Positive
+,ZEROHARM Holistic Calcium Tablets ,Calcium,I have no grievances about this product. It's easy to ingest and effectively fulfills its purpose.,8.0,2023-12-31 00:00:00,45,Positive
+,ZEROHARM Holistic Calcium Tablets ,Calcium,I regularly take calcium supplyments and this one is one of the best I have ever taken,8.0,2023-10-01 00:00:00,32,Positive
+,ZEROHARM Holistic Calcium Tablets ,Calcium,Cost is high as compared to other products.,7.5,2021-10-11 00:00:00,24,Negative
+,DIVYA PSOROGRIT 60 TABLETS,Psoriasis,Highly recommend for anyone seeking relief from psoriasis symptoms.,10.0,2023-03-12 00:00:00,28,positive
+,DIVYA PSOROGRIT 60 TABLETS,Psoriasis,It smoothed his skin and significantly reduced redness after just a few uses.,10.0,2022-01-03 00:00:00,37,Positive
+,DIVYA PSOROGRIT 60 TABLETS,Psoriasis,My uncle has used this product for his psoriasis and it has shown very good improvement in his psoriasis. ,9.0,2020-02-10 00:00:00,38,Positive
+,Vedabay Psorysys Heal Psoriasis Medicine,Psoriasis,My sister has used this cream for her psoriasis and she got good results with this cream.,9.0,2020-10-15 00:00:00,40,Positive
+,Vedabay Psorysys Heal Psoriasis Medicine,Psoriasis,Value for money.,8.5,2022-04-01 00:00:00,30,Positive
+,Vedabay Psorysys Heal Psoriasis Medicine,Psoriasis,It is very helpful in itchy and dry skin. Good moisturizing cream. Value for money. Thanks for amazing product for dry skin.,7.5,2021-03-17 00:00:00,31,Positive
+,Medisynth Soriafit Cream For_Psoriasis ,Psoriasis,Soothing Moisture for Sensitive Skin,8.0,2022-10-08 00:00:00,22,Positive
+,Medisynth Soriafit Cream For_Psoriasis ,Psoriasis,It give proper moisture to my skin and doesn't irritate my skin…,8.0,2024-03-11 00:00:00,32,Positive
+,Medisynth Soriafit Cream For_Psoriasis ,Psoriasis,This is perfect solution for my skin found it very good,7.5, 26-Jan-2024,25,Positive
+,MILLIBOLT HEALTHTECH Psoriacure Ointment,Psoriasis," sometimes i have burning sensation on my face , after useing it my skin become very soft.",5.5,2024-03-07 00:00:00,24,Negative
+,MILLIBOLT HEALTHTECH Psoriacure Ointment,Psoriasis, I'll tell you if you have combination skin type then don't go for it it'll make it more oily,5.0,2024-02-18 00:00:00,23,Negative
+,MILLIBOLT HEALTHTECH Psoriacure Ointment,Psoriasis, i used a lot of products this finally worked for me,8.5,2024-02-16 00:00:00,27,Positive
+,Cetaphil DAM Daily Advance Ultra Hydrating Lotion,Psoriasis,Good for daily use,8.0,2024-01-06 00:00:00,25,Positive
+,Cetaphil DAM Daily Advance Ultra Hydrating Lotion,Psoriasis,Good quality,8.0,2024-03-13 00:00:00,26,Positive
+,Cetaphil DAM Daily Advance Ultra Hydrating Lotion,Psoriasis,Very good one. But its little bit small. Good for dry skin and makes your skin soft.,7.5,2024-03-04 00:00:00,37,Positive
+,Barphani VitliGon Ointment- Natural Ayurvedic Vitiligo Cream,Vitiligo,The product was not found to be effective and hence discontinued,5.0, 10-Dec-2022,34,Negative
+,Barphani VitliGon Ointment- Natural Ayurvedic Vitiligo Cream,Vitiligo,Not yet any result found. Wastage of money,5.0,2024-01-09 00:00:00,23,Negative
+,Barphani VitliGon Ointment- Natural Ayurvedic Vitiligo Cream,Vitiligo,Good product,10.0,2022-08-01 00:00:00,23,Positive
+,Lecor oil I Ayurvedic Medicine for Vitiligo ,Vitiligo, Very good medicine for Vitiligo… ,10.0, 27 December 2023,54,Positive
+,Lecor oil I Ayurvedic Medicine for Vitiligo ,Vitiligo,I liked this product. My skin colour change slowly slowly.,10.0,2023-12-18 00:00:00,34,Positive
+,Lecor oil I Ayurvedic Medicine for Vitiligo ,Vitiligo,"Talking about the product, the dosage is not mentioned on the product neither the seller is going to guide you regarding this.",7.0, 5 April 2023,23,Neutral
+,Vedabay Vitiligo Melatonin Tablets,Vitiligo,Very effective product for vitiligo,10.0, 6 Aug 2023,26,Positive
+,Vedabay Vitiligo Melatonin Tablets,Vitiligo,I didn’t find any benefits after using this product,4.0,2022-07-19 00:00:00,26,Negative
+,Vedabay Vitiligo Melatonin Tablets,Vitiligo,Okayish product,6.5,2023-04-21 00:00:00,27,Neutral
+,Ujwala Ayurvedashram Lecor Capsule For Vitiligo ,Vitiligo,spatches have improved more than before you can also use this ayurvedic medicine. this ayurvedic medicine very useful for skin spatches,10.0,2024-01-09 00:00:00,29,Positive
+,Ujwala Ayurvedashram Lecor Capsule For Vitiligo ,Vitiligo,Not working ,4.0,2023-08-19 00:00:00,10,Negative
+,Ujwala Ayurvedashram Lecor Capsule For Vitiligo ,Vitiligo,This product is something like okk,6.0,2023-07-15 00:00:00,20,Neutral
+,Shuddhi Ayurveda Vitiligo,Vitiligo,Can see improvement after longer usage.Thanks,8.0,2023-05-20 00:00:00,20,Positive
+,Shuddhi Ayurveda Vitiligo,Vitiligo,Please don’t waste your money,2.0, 9-Feb-2023,21,Negative
+,Shuddhi Ayurveda Vitiligo,Vitiligo,In one month I see difference …good product,8.5, 8-Feb-2024,12,Positive
+,Orasore Mouth Ulcer Tablet,Mouth ulcer,Great product. None of the other products from Allopathic works,10.0,2021-08-27 00:00:00,22,Positive
+,Orasore Mouth Ulcer Tablet,Mouth ulcer,Best ayurvedic mouth ulcer get,10.0,2021-03-31 00:00:00,13,Positive
+,Orasore Mouth Ulcer Tablet,Mouth ulcer,Almost instant relief,10.0,2022-08-05 00:00:00,34,Positive
+,Smyle Mouth Ulcer Gel,Mouth ulcer,Not recommended.It might hurt your stomach and cause diarrhoea,4.0,2021-12-17 00:00:00,46,Negative
+,Smyle Mouth Ulcer Gel,Mouth ulcer,The healing process is slow It doesn control flatulence,7.0,2022-02-17 00:00:00,23,Negative
+,Smyle Mouth Ulcer Gel,Mouth ulcer, better for inflammation inside but go to doctor if problem due to any infection,7.0,2022-11-12 00:00:00,34,Neutral
+,Zincasin Zinc Carnosine 75mg Tablet,Mouth ulcer,The best for mouth ulcers without doubt.,8.5,2022-11-22 00:00:00,30,Positive
+,Zincasin Zinc Carnosine 75mg Tablet,Mouth ulcer,Good for ulcers use,8.0,2023-07-21 00:00:00,43,Positive
+,Zincasin Zinc Carnosine 75mg Tablet,Mouth ulcer,Good for ulcers and acid indigestion,8.0,2022-12-09 00:00:00,32,Positive
+,Oraheal Mouth Ulcer Chewable Tablet,Mouth ulcer,Very good product to get rid of occasional mouth sores,9.0,2023-05-14 00:00:00,23,Positive
+,Oraheal Mouth Ulcer Chewable Tablet,Mouth ulcer,I have taken this medicine for four days No special effects,6.0,2023-05-30 00:00:00,54,Negative
+,Oraheal Mouth Ulcer Chewable Tablet,Mouth ulcer,Not effective.I am using this tablet but got no relief.,4.0,2023-08-09 00:00:00,23,Negative
+,Orobest Mouth Ulcer Gel,Mouth ulcer,Didn't really work well on mouth ulcers but you can try and see if it works for you.,3.5,2023-07-04 00:00:00,34,Negative
+,Orobest Mouth Ulcer Gel,Mouth ulcer,I recommend this product,9.0,2022-05-17 00:00:00,23,Positive
+,Orobest Mouth Ulcer Gel,Mouth ulcer,Realy good for mouth ulcers,9.5,2022-02-05 00:00:00,45,Positive
+,Life Aveda Parkinson’s Disease tablets,"Parkinson,Nervous disease",Very effective and useful.,10.0,2024-03-12 00:00:00,22,Positive
+,Life Aveda Parkinson’s Disease tablets,"Parkinson,Nervous disease",Good for Parkinson .,10.0,2024-01-30 00:00:00,23,Positive
+,Life Aveda Parkinson’s Disease tablets,"Parkinson,Nervous disease",Good product,8.0,2023-05-14 00:00:00,22,Positive
+,Parkikyor (Kampavata) Tablets,"Parkinson,Nervous disease",Too early to judge effectiveness,6.5,2019-06-01 00:00:00,26,Neutral
+,Parkikyor (Kampavata) Tablets,"Parkinson,Nervous disease",People with parkinson should try ir… really good product,9.5,2020-01-27 00:00:00,28,Positive
+,Parkikyor (Kampavata) Tablets,"Parkinson,Nervous disease",Nice product,8.5,2024-02-06 00:00:00,27,Positive
+,Xovak Pharmtech Ayurvedic Parkinson's Medicine,"Parkinson,Nervous disease"," I wanted immediate relief, I got very bad effect.",4.0,2019-03-22 00:00:00,33,Negative
+,Xovak Pharmtech Ayurvedic Parkinson's Medicine,"Parkinson,Nervous disease", One should use this product often,10.0, 5 August 2022,22,Positive
+,Xovak Pharmtech Ayurvedic Parkinson's Medicine,"Parkinson,Nervous disease","It's only a non harmful product for body. No any health benefit,",4.0,2022-03-09 00:00:00,21,Negative
+,INLIFE Neuro Nerve Care Health Supplement,"Parkinson,Nervous disease",A must buy for all people and you will feel the difference within a week.,10.0,2019-09-29 00:00:00,24,Positive
+,INLIFE Neuro Nerve Care Health Supplement,"Parkinson,Nervous disease",I have used this product for one month and I will purchase again if required,7.0,2018-02-12 00:00:00,26,Positive
+,INLIFE Neuro Nerve Care Health Supplement,"Parkinson,Nervous disease","This product will not harmful, but not even helpful.",7.0,"02-02-2019
+",27,Neutral
+,Ramsey- Parkino Syrup ,"Parkinson,Nervous disease","good health , nerve strength",10.0,2019-09-09 00:00:00,24,Positive
+,Ramsey- Parkino Syrup ,"Parkinson,Nervous disease",Undoubtedly an excellent product to solve issues related to nervous system.,10.0,2022-08-09 00:00:00,33,Positive
+,Ramsey- Parkino Syrup ,"Parkinson,Nervous disease","Have ordered this a couple times before. A very natural approach to a healthy nervous system, in the best natural combo herbs. ",10.0, 6 February 2024,43,Positive
+,ZEROHARM Narie Fertility Formula Tablets,0,Seen great changes and very good product.,10.0,2023-10-11 00:00:00,31,Positive
+,ZEROHARM Narie Fertility Formula Tablets,Pregnancy care,"Used for 2 months and didn't had any side effects. Its best for hormonal issues, immunity power, and gynae problems.",8.0,2023-08-15 00:00:00,21,Positive
+,ZEROHARM Narie Fertility Formula Tablets,Pregnancy care,"I appreciate the holistic approach of the supplement, addressing both physical and hormonal aspects of fertility to support optimal reproductive function.",10.0, 24 November 2023,23,Positive
+,LittleVeda Pregnancy Trail Mix ,Pregnancy care,Really nutritious. Didn't know beetroot could taste so good. Love the combination of all the seeds and nuts. My to go snack during my pregnancy.,10.0,2021-06-28 00:00:00,20,Positive
+,LittleVeda Pregnancy Trail Mix ,Pregnancy care,Very costly. Only nuts which can be bought in local market for RS 100/-. No unique ingredients.,2.0,2024-02-20 00:00:00,24,Negative
+,LittleVeda Pregnancy Trail Mix ,Pregnancy care,Nice product but really low value for money. Just too little quantity for the price. The product is tasty though,6.0, 6 June 2021,35,Neutral
+,Spellbound Prenatal Multivitamin for Pregnancy,Pregnancy care,The positive impact on my health has been remarkable. I highly recommend this product!,10.0,2024-01-04 00:00:00,46,Positive
+,Spellbound Prenatal Multivitamin for Pregnancy,Pregnancy care,This product actually having good quality and Results,10.0,2024-01-23 00:00:00,33,Positive
+,Spellbound Prenatal Multivitamin for Pregnancy,Pregnancy care,I have to hold my breath to swallow it. I wouldn’t purchase again.,4.0,2024-01-25 00:00:00,24,Negative
+,Inaari Womb Health Ayurvedic Supplements,Pregnancy care,"Helps in promoting womb health, improving egg quality, supporting timely ovulation, and strengthening the reproductive system. Overall a very helpful product.",10.0,2024-02-26 00:00:00,24,Positive
+,Inaari Womb Health Ayurvedic Supplements,Pregnancy care,I highly recommend this product for women who are seeking for a good supplement for conceiving. Great product!,10.0,2024-03-07 00:00:00,43,Positive
+,Inaari Womb Health Ayurvedic Supplements,Pregnancy care,very trustable and reliable brand for ayurvedic care. Very beneficial supplements as well,10.0,2023-11-16 00:00:00,35,Positive
+,Carbamide Forte Prenatal Multivitamin for Pregnancy ,Pregnancy care, It is helping me tremendously even in my third trimester.,10.0,2024-01-08 00:00:00,23,Positive
+,Carbamide Forte Prenatal Multivitamin for Pregnancy ,Pregnancy care,This tablet helps to generate good follicles for pregnancy and supported by body to generates good cells,10.0,2021-09-21 00:00:00,24,Positive
+,Carbamide Forte Prenatal Multivitamin for Pregnancy ,Pregnancy care,I have yet to see the results as I just started taking the supplements. But it smells horrible,6.0,2021-11-24 00:00:00,12,Neutral
+,Little's Organix Diaper Rash Cream,Baby rash cream,Not as effective as it should be like a rash cream,4.0,2023-12-10 00:00:00,33,Negative
+,Little's Organix Diaper Rash Cream,Baby rash cream,Amazing cream soo good for skin,10.0,2023-08-09 00:00:00,32,Positive
+,Little's Organix Diaper Rash Cream,Baby rash cream, I loved this for my baby. Works effectively. Results are good.,10.0,2023-07-21 00:00:00,31,Positive
+,Sebamed Baby Rash Cream,Baby rash cream, I highly recommend Baby Sebamed Rash Cream for its effectiveness and gentle care for delicate baby skin.,10.0, 18 February 2024,30,Positive
+,Sebamed Baby Rash Cream,Baby rash cream,The cream also maintains the ph value of baby'skin keeping the skin soft and smooth.,10.0,2024-02-25 00:00:00,34,Positive
+,Sebamed Baby Rash Cream,Baby rash cream,"Amazing experience using this you can surely get it for your littile one. This smells also nice and Moisturize your babies skin
+Customer image",8.0,2024-02-20 00:00:00,35,Positive
+,Himalaya Diaper Rash Cream,Baby rash cream,There is no comparison of this product. As usual the most affordable and best formulated rash cream.,10.0,2024-03-14 00:00:00,36,Positive
+,Himalaya Diaper Rash Cream,Baby rash cream,I have used this and it’s not bad but coconut oil is best for rashes,8.0,2024-03-12 00:00:00,37,Positive
+,Himalaya Diaper Rash Cream,Baby rash cream,A GOOD PRODUCT FOR BABY USE.,10.0,2024-03-05 00:00:00,38,Positive
+,SkinEasi Baby Diaper Rash Gel,Baby rash cream,I used for my baby. Really got good result.,10.0,2021-10-26 00:00:00,37,Positive
+,SkinEasi Baby Diaper Rash Gel,Baby rash cream,"Its a simple barrier cream that works just perfectly!
+",10.0,2022-11-07 00:00:00,24,Positive
+,SkinEasi Baby Diaper Rash Gel,Baby rash cream,It’s wonderful. Has a soothing scent not at all harsh on the skin. Love it and I recommend it!,10.0,2022-02-07 00:00:00,25,Positive
+,Cipla Health Mamaxpert Baby Diaper Rash Cream,Baby rash cream,Heals faster,7.5,2023-02-08 00:00:00,25,Positive
+,Cipla Health Mamaxpert Baby Diaper Rash Cream,Baby rash cream,Does the work,8.0,2021-04-09 00:00:00,27,Positive
+,Cipla Health Mamaxpert Baby Diaper Rash Cream,Baby rash cream,Good product,7.0,2022-02-10 00:00:00,28,Positive
+,Electral Powder,"Glucose, Dehydration",simple and easy to use,10.0,2022-08-11 00:00:00,23,Positive
+,Electral Powder,"Glucose, Dehydration",Good quality product,10.0,2022-08-09 00:00:00,34,Positive
+,Electral Powder,"Glucose, Dehydration",Can be used in dhyorrea and desentry related problems Can be used in gym for Instant energy,10.0,2022-08-21 00:00:00,32,Positive
+,Prolyte ORS for Restoring Body Fluids & Electrolytes,"Glucose, Dehydration",Tastes good and gives quick relief,8.0,2021-02-14 00:00:00,43,Positive
+,Prolyte ORS for Restoring Body Fluids & Electrolytes,"Glucose, Dehydration","its an ok product, nothing great just a standard ripoff of the regular ORS with flavor no added benefits",6.0,2021-08-02 00:00:00,23,Neutral
+,Prolyte ORS for Restoring Body Fluids & Electrolytes,"Glucose, Dehydration",This is very good powder to maintain ion imbalance and prevent dehydration and loose motions,10.0,2021-08-17 00:00:00,12,Positive
+,Dabur Glucose D ,"Glucose, Dehydration",The jar was very good and helpful energy drink,10.0,2021-08-01 00:00:00,13,Positive
+,Dabur Glucose D ,"Glucose, Dehydration",Quality was good,10.0,2022-05-03 00:00:00,23,Positive
+,Dabur Glucose D ,"Glucose, Dehydration",Like sugar powder only,4.0,2023-07-25 00:00:00,45,Negative
+,Glucon-D Instant Energy ,"Glucose, Dehydration","Energetic flavour taste,",10.0,2022-06-07 00:00:00,32,positive
+,Glucon-D Instant Energy ,"Glucose, Dehydration",The quality of the product is good,10.0,2022-08-11 00:00:00,24,positive
+,Glucon-D Instant Energy ,"Glucose, Dehydration",Good for instant energy Great taste of Nimbu. Useful during summer months,10.0,2022-08-21 00:00:00,28,positive
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,"Glucose, Dehydration",Benefited with this combination,8.0,2022-09-12 00:00:00,37,Positive
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,"Glucose, Dehydration","The combination of karela, neem and jamun without the bitterness is really good Found it quite effective for sugar control",10.0,2022-10-20 00:00:00,38,Positive
+,Dabur Jamun Neem Karela Juice For Healthy Glucose Levels,"Glucose, Dehydration",Very effective for detoxification and controlling blood glucose levels if consumed on an empty stomach early morning,10.0,2022-11-01 00:00:00,40,Positive
+,Boroline Cream,"Sunburn, Sunscreen",Gentle on skin,10.0,2022-03-25 00:00:00,30,Positive
+,Boroline Cream,"Sunburn, Sunscreen",Very good cream,10.0,2022-04-02 00:00:00,31,Positive
+,Boroline Cream,"Sunburn, Sunscreen",its good Worth product.,8.0,2022-06-08 00:00:00,22,Positive
+,Patanjali Ayurveda Saundarya Aloe Vera Gel ,"Sunburn, Sunscreen",One of the best alovera gel.,10.0,2022-05-09 00:00:00,32,Positive
+,Patanjali Ayurveda Saundarya Aloe Vera Gel ,"Sunburn, Sunscreen",Using it for more than 8 months Sometimes good but dont hope too much It can work as good moisturiser.,10.0,2022-09-20 00:00:00,25,Positive
+,Patanjali Ayurveda Saundarya Aloe Vera Gel ,"Sunburn, Sunscreen",Good for the skin,10.0,2023-05-22 00:00:00,24,Positive
+,Neutrogena Ultra Sheer Dry-Touch Sunblock Sunscreen ,"Sunburn, Sunscreen",Excellent for skin protection but the white cast bothers hence you can wear it for official purposes,10.0,2023-04-02 00:00:00,23,Positive
+,Neutrogena Ultra Sheer Dry-Touch Sunblock Sunscreen ,"Sunburn, Sunscreen",its a bit expensive compared to other brands.,7.0,2023-04-04 00:00:00,27,Neutral
+,Neutrogena Ultra Sheer Dry-Touch Sunblock Sunscreen ,"Sunburn, Sunscreen",No side effects very soft,10.0,2023-05-13 00:00:00,25,Positive
+,Organic Netra Pure Aloe Vera Gel with Vitamin C & E,"Sunburn, Sunscreen",Overall the product is good.,10.0, 28-Feb-2023,26,Positive
+,Organic Netra Pure Aloe Vera Gel with Vitamin C & E,"Sunburn, Sunscreen",U can buy without second thought its purely chemical free.. i brought this second time…,10.0,2021-11-30 00:00:00,37,Positive
+,Organic Netra Pure Aloe Vera Gel with Vitamin C & E,"Sunburn, Sunscreen",It is little pricey not reasonable.,6.0,2023-12-17 00:00:00,34,Neutral
+,Caladryl Skin Allergy Expert Lotion for sunburn,"Sunburn, Sunscreen",It's good for skin infections,9.0,2023-06-11 00:00:00,23,Positive
+,Caladryl Skin Allergy Expert Lotion for sunburn,"Sunburn, Sunscreen","Ideal size, portable container and reliable product - recommend",9.0, 12-Aug-2023,23,Positive
+,Caladryl Skin Allergy Expert Lotion for sunburn,"Sunburn, Sunscreen",Very good Product . Will recommend to one and all.,8.0,2023-07-08 00:00:00,54,Positive
+,Isoniazid.,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,34,Positive
+,Rifampin,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,23,Positive
+,Rifabutin ,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,26,Positive
+,Rifapentine,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,26,Positive
+,Pyrazinamide.,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,27,Positive
+,Ethambutol ,TB(Tuberculosis),Consult doctor before using the product,10.0,##########,29,Positive
+,Amoxicillin,Tonsilitis,Consult doctor before using the product,10.0,##########,10,Positive
+,Bacampicillin,Tonsilitis,Consult doctor before using the product,10.0,##########,20,Positive
+,Cefadroxil,Tonsilitis,Consult doctor before using the product,10.0,##########,20,Positive
+,Cefetamet,Tonsilitis,Consult doctor before using the product,10.0,##########,21,Positive
+,Cefixime,Tonsilitis,Consult doctor before using the product,10.0,##########,12,Positive
+,Cefuro axetil,Tonsilitis,Consult doctor before using the product,10.0,##########,22,Positive
+,Dequalinium,Tonsilitis,Consult doctor before using the product,10.0,##########,13,Positive
+,Vito Relief Nausea Ginger Lozenges,"Vomiting, Nausea",I have nausea problem whenever I travel by car. I got this before my trip and this really helped me. It’s pure ginger.,10.0,2024-01-23 00:00:00,34,Positive
+,Vito Relief Nausea Ginger Lozenges,"Vomiting, Nausea",Overall it's good,10.0,2024-02-15 00:00:00,46,Positive
+,Vito Relief Nausea Ginger Lozenges,"Vomiting, Nausea",Easy recommendation for those who are going to mountains for a short trip,10.0, 18 January 2024,23,Positive
+,Himalaya GASEX FIZZ,"Vomiting, Nausea",Very effective in short time of span,10.0,2024-02-13 00:00:00,34,Positive
+,Himalaya GASEX FIZZ,"Vomiting, Nausea",Excellent for those sufferring from Gas/wind trouble. Nice in taste also.,10.0,2023-09-22 00:00:00,30,Positive
+,Himalaya GASEX FIZZ,"Vomiting, Nausea",Taste good,10.0, 8 August 2023,43,Positive
+,GNC Vitamin C Chewable Tablets | 30 Tablets,"Vomiting, Nausea",It's easy to chew and tastes really nice and help increase immunity of my body. Highly recommended.,10.0,2023-02-27 00:00:00,32,Positive
+,GNC Vitamin C Chewable Tablets | 30 Tablets,"Vomiting, Nausea",Results are good best for vitamin c i take 2 daily no side effects,8.0,2023-02-04 00:00:00,23,Positive
+,GNC Vitamin C Chewable Tablets | 30 Tablets,"Vomiting, Nausea",The product is very good. Value for the money.,8.0, 7 February 2023,54,Positive
+,Simply Herbal Vitamin C 1000mg Tablets ,"Vomiting, Nausea",This does active harm to the body.,3.0,2020-08-26 00:00:00,23,Negative
+,Simply Herbal Vitamin C 1000mg Tablets ,"Vomiting, Nausea",The results are just fantastic,10.0, 16 August 2020,34,Positive
+,Simply Herbal Vitamin C 1000mg Tablets ,"Vomiting, Nausea", would recommend simply herbal Vit c tablets,10.0,2020-11-18 00:00:00,23,Positive
+,Limcee Chewable Tablet Orange,"Vomiting, Nausea",This tablet is very good for vitamin c,10.0,2022-07-28 00:00:00,45,Positive
+,Limcee Chewable Tablet Orange,"Vomiting, Nausea",Perfect Vitamin C in unfordable rate Recommended by almost all doctors,10.0,2022-08-01 00:00:00,22,Positive
+,Limcee Chewable Tablet Orange,"Vomiting, Nausea",Good medicine very effective,10.0,2022-08-05 00:00:00,23,Positive
+,Kapiva Period Care Juice ,Period cramps,it normalised my flow regulate my periods and it works great for my cramps too,10.0,2024-02-03 00:00:00,22,Positive
+,Kapiva Period Care Juice ,Period cramps,Really helps to regulate irregular menstruation cycle and helps harmonal imbalance,8.0, 14 August 2021,26,Positive
+,Kapiva Period Care Juice ,Period cramps,I have been consuming this for past 1 and half months and can see the effectiveness of this ayurvedic drink. ,9.0,2021-12-26 00:00:00,28,Positive
+,Nveda Natural Menstrual/Period Pain,Period cramps,"I have been using this product for several months, it didn't take away all the mood swings, but it definitely helped.",10.0, 13 January 2024,27,Positive
+,Nveda Natural Menstrual/Period Pain,Period cramps,Works really well in help to controlling menstrual symptoms and cramps. It works best when taken consistently everyday.,10.0,2024-01-12 00:00:00,33,Positive
+,Nveda Natural Menstrual/Period Pain,Period cramps,Helpful for cramps,8.0,2022-07-24 00:00:00,22,Positive
+,Dr. Vaidya's Period Wellness Capsules,Period cramps,WELL I BOUGHT IT FOR MY SISTER AND SHE SAID IT WORKED AMZINGLY AND GAVE RELIEF.,10.0, 2 September 2022,21,Positive
+,Dr. Vaidya's Period Wellness Capsules,Period cramps,"Nice tabs, cure period pains .",8.0,2022-09-02 00:00:00,24,Positive
+,Dr. Vaidya's Period Wellness Capsules,Period cramps,It has Ashoka in it. Works so well especially for PCOD/ PCOS. Reduced cramps as well. Thanks!,8.5, 19 September 2022,26,Positive
+,Gynoveda Veerha for Period Flow,Period cramps, Worst product don't buy this,3.0, 21 July 2022,27,Negative
+,Gynoveda Veerha for Period Flow,Period cramps,Very good product ,8.0, 24 December 2023,24,Positive
+,Gynoveda Veerha for Period Flow,Period cramps,Not helpful,4.0,2023-08-21 00:00:00,33,Negative
+,Gynoveda PMS Relief ,Period cramps, it will work slowly we can observe the behaviour changes,8.0,2023-12-08 00:00:00,43,Positive
+,Gynoveda PMS Relief ,Period cramps,Go for it if you used all Allopathic medicine and still no relief then must try it. No harm in it.,8.0,2023-03-26 00:00:00,31,Positive
+,Gynoveda PMS Relief ,Period cramps,good product it works,8.0,2023-03-27 00:00:00,21,Positive
+,ZEROHARM Holo Kidney Detox tablets,Kidney detox, I'm truly grateful for discovering this product.,10.0,2023-11-23 00:00:00,23,Positive
+,ZEROHARM Holo Kidney Detox tablets,Kidney detox,"I've had kidney health concerns for years, and Kidney Detox is the best supplement I've found.",10.0, 2 February 2024,20,Positive
+,ZEROHARM Holo Kidney Detox tablets,Kidney detox,I appreciate that Kidney Detox uses nano-technology to ensure the herbs' potency. It's a reassuring sign that I'm getting the full benefits of these natural extracts.,10.0,2023-08-30 00:00:00,24,Positive
+,Foresta Organics Kidney Detox,Kidney detox,Satisfied with purchase,10.0, 18 July 2023,35,Positive
+,Foresta Organics Kidney Detox,Kidney detox,Lived upto the expectations.,9.0,2023-06-23 00:00:00,46,Positive
+,Foresta Organics Kidney Detox,Kidney detox,Value for money and no side effects observed as such,8.0,2023-06-28 00:00:00,33,Positive
+,Life Aveda Kidney Restore,Kidney detox,Good product,8.0,2023-05-22 00:00:00,24,Positive
+,Life Aveda Kidney Restore,Kidney detox,effective one for kidney detox,7.5,2023-05-15 00:00:00,24,Positive
+,Life Aveda Kidney Restore,Kidney detox,okayish product,6.0, 5 July 2023,43,Neutral
+,Bliss Welness Kidney Detox ,Kidney detox,"I’m giving this review after using this product for 1month, it’s a good product and effective too recommend to Buy and try once you.",10.0,2024-03-10 00:00:00,35,Positive
+,Bliss Welness Kidney Detox ,Kidney detox,This is a good product for kidney stone,9.5,2023-10-24 00:00:00,23,Positive
+,Bliss Welness Kidney Detox ,Kidney detox,"Most Effective medicine to Detox Kidney , Its is natural n Plant Base , No metal are present .",9.0, 2 August 2023,24,Positive
+,Pure Nutrition Naturals Kidney Detox Cleanser,Kidney detox,Good product,6.5,2021-02-10 00:00:00,12,Positive
+,Pure Nutrition Naturals Kidney Detox Cleanser,Kidney detox,No side effects,7.0,2022-11-09 00:00:00,33,Positive
+,Pure Nutrition Naturals Kidney Detox Cleanser,Kidney detox,had pain after using this product,3.0,2022-03-12 00:00:00,32,Negative
+,ThriveCo Hair Growth Serum,Hair loss, have loved the results that I have noticed and can see visible differences in the hair growth too.,10.0,2024-03-12 00:00:00,31,Positive
+,ThriveCo Hair Growth Serum,Hair loss,i can confirm that I have seen positive changes in my hairline and hair thickness.,8.0, 8 March 2024,30,Positive
+,ThriveCo Hair Growth Serum,Hair loss,"I have used the product for 10 days now, I don’t see any change moreover my hair fall has increased, which is very concerning.",4.0,2024-03-18 00:00:00,34,Negative
+,Minimalist Hair Growth Serum,Hair loss,The product is great,8.0,2024-01-10 00:00:00,35,Positive
+,Minimalist Hair Growth Serum,Hair loss,With products like these it takes a long time to actually show any results. ,6.0,2021-09-10 00:00:00,36,Neutral
+,Minimalist Hair Growth Serum,Hair loss,"Been using it since 6 months. Hairfall has reduced somewhat, but no hair growth as it claims",7.0,2024-01-06 00:00:00,37,Neutral
+,DABUR Vatika Rosemary Hair Growth,Hair loss,I got a excellent result I love this hair oil and it's frangant is mild,9.5, 16 February 2024,38,Positive
+,DABUR Vatika Rosemary Hair Growth,Hair loss,I have used this oil few times now and it has started to work wonders on my hair. Loved the fragrance. Gives shine and strength to my hair. Go for it.,9.0,2024-02-29 00:00:00,37,Positive
+,DABUR Vatika Rosemary Hair Growth,Hair loss,This oil is very good. It has really improved the texture of my hair. My hair Volume has increased .,10.0,2024-03-03 00:00:00,24,Positive
+,WishCare Hair Growth Serum,Hair loss,I highly recommend the WishCare Hair Growth Serum to anyone looking to improve the thickness and health of their hair.,10.0,2024-03-14 00:00:00,25,Positive
+,WishCare Hair Growth Serum,Hair loss,I have skin some small hair stand grow i have used 1 bottle only need to use more for good results,8.0,2024-03-11 00:00:00,25,Positive
+,WishCare Hair Growth Serum,Hair loss,"The price is too high and the quantity is too less. I was only able to use it for a few days, I guess it didn’t last more than a week.",8.0,2024-03-11 00:00:00,27,Neutral
+,Kesh King Ayurvedic Anti Hairfall Hair Oil,Hair loss,Nice product for hair.,8.0,2024-03-04 00:00:00,28,Positive
+,Kesh King Ayurvedic Anti Hairfall Hair Oil,Hair loss,Nice hair oil i purchase it for my daughter hair growth is good And brown hair convert in black hair.,8.0,2023-12-07 00:00:00,35,Positive
+,Kesh King Ayurvedic Anti Hairfall Hair Oil,Hair loss,Nice product,8.0,2024-02-05 00:00:00,46,Positive
+,Glenmark Demelan Cream For Hyperpigmentation Treatment,Hyperpigmentation,Actually I used for my pigmented area on my forehead...it good on pimple black spot...not work on my forehead darker than my skin,8.0, 5 July 2022,33,Positive
+,Glenmark Demelan Cream For Hyperpigmentation Treatment,Hyperpigmentation,"When I apply this cream on face over affected area it's start burning on the face after 5 to 10 min this sensation stop, I will say it's a strong cream",4.0, 2 January 2024,24,Negative
+,Glenmark Demelan Cream For Hyperpigmentation Treatment,Hyperpigmentation,Its works slowly.... But nice product,8.0,2022-08-17 00:00:00,24,Positive
+,DERMATOUCH Bye Bye Hyperpigmentation Cream,Hyperpigmentation,Very effective......it's really work....,10.0,2023-11-05 00:00:00,43,Positive
+,DERMATOUCH Bye Bye Hyperpigmentation Cream,Hyperpigmentation,Expensive product,5.0,2024-01-26 00:00:00,35,Neutral
+,DERMATOUCH Bye Bye Hyperpigmentation Cream,Hyperpigmentation,The pigmentation has reduced well,10.0,2024-01-24 00:00:00,23,Positive
+,VENSIA Anti Pigmentation Cream ,Hyperpigmentation,This product is very effective and good . My face pigmentation is clear naw thanks for such a good cream.,10.0,2024-03-11 00:00:00,24,Positive
+,VENSIA Anti Pigmentation Cream ,Hyperpigmentation,I am using this cream i got recover 50% no redness no itching,10.0, 26 June 2023,12,Positive
+,VENSIA Anti Pigmentation Cream ,Hyperpigmentation,Superb. I can see the change in Skin Colour after pigmentation vanishing gradually. Good to see no side effects till now,10.0,2023-07-13 00:00:00,33,Positive
+,Kozicare Skin Lightening Cream,Hyperpigmentation,"This product not purchase, side effects",5.0,2024-03-12 00:00:00,32,Negative
+,Kozicare Skin Lightening Cream,Hyperpigmentation,This product caused me rash all over my face,5.0, 5 January 2024,31,Negative
+,Kozicare Skin Lightening Cream,Hyperpigmentation,Works okay,7.0, 22 December 2023,30,Neutral
+,Himalayan Organics Dark Spots Pigmentation Support,Hyperpigmentation,Just started using it..will update after 1 month..,8.0,2024-02-18 00:00:00,34,Neutral
+,Himalayan Organics Dark Spots Pigmentation Support,Hyperpigmentation,Good product,9.0,2024-01-19 00:00:00,35,Positive
+,Himalayan Organics Dark Spots Pigmentation Support,Hyperpigmentation,Works well,9.0,2024-02-12 00:00:00,36,Positive
+,Unwanted 21,Birth Control,Works well,10.0,2023-03-14 00:00:00,37,Positive
+,Unwanted 21,Birth Control,Good,10.0,2023-01-19 00:00:00,38,Positive
+,Unwanted 21,Birth Control,Good medicine,10.0,2023-12-15 00:00:00,37,Positive
+,I-Pill Emergency Contraceptive Pill,Birth Control, Safe and satisfied,10.0,2022-11-04 00:00:00,24,Positive
+,I-Pill Emergency Contraceptive Pill,Birth Control,Helpful product as protection,10.0, 2 January 2023,25,Positive
+,I-Pill Emergency Contraceptive Pill,Birth Control,Great product,10.0,2021-06-14 00:00:00,25,Positive
+,CRD Ayurveda Fixtime 30 Capsules for Women,Birth Control,Consult doctor before using the product,10.0,##########,27,Positive
+,CRD Ayurveda Fixtime 30 Capsules for Women,Birth Control,Consult doctor before using the product,10.0,##########,28,Positive
+,CRD Ayurveda Fixtime 30 Capsules for Women,Birth Control,Consult doctor before using the product,10.0,##########,23,Positive
+,Ovral L,Birth Control,Consult doctor before using the product,10.0,##########,21,Positive
+,Ovral L,Birth Control,Consult doctor before using the product,10.0,##########,20,Positive
+,Ovral L,Birth Control,Consult doctor before using the product,10.0,##########,35,Positive
+,Azithromycin,Pneumonia,Consult doctor before using the product,10.0,##########,23,Positive
+,Clarithromycin,Pneumonia,Consult doctor before using the product,10.0,##########,33,Positive
+,Tetracycline,Pneumonia,Consult doctor before using the product,10.0,##########,43,Positive
+6789.0,Insulin,Diabetes Mellitus,It is best suitable for diabetes patients.,10.0,2024-03-27,50,positive
+36478,yaaru,Aids,It is one of the worst medicine ever.,3,2024-03-27,16,Negative
+900,levipil,stroke,highly recommended for abnormal activities,7,2024-04-02,12,Positive
+1012,insulin,diabetes,this is very helpfully.,8,2024-04-09,18,Positive
+1012,Acetaminophen,Mild-to-Moderate Pain,safe if taken correctly,9,2024-04-09,19,Positive
